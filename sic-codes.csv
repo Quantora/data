@@ -1,0 +1,1515 @@
+level,code,name,parent_0,parent_1,parent_2
+0,100,"Agriculture, Forestry, Fishing",,,
+0,1000,Mining,,,
+0,1500,Construction,,,
+0,2000,Manufacturing,,,
+0,4000,Transportation & Public Utilities,,,
+0,5000,Wholesale Trade,,,
+0,5200,Retail Trade,,,
+0,6000,"Finance, Insurance, Real Estate",,,
+0,7000,Services,,,
+0,9100,Public Administration,,,
+1,100,Agricultural Production - Crops,100.0,,
+1,200,Agricultural Production - Livestock,100.0,,
+1,700,Agricultural Services,100.0,,
+1,800,Forestry,100.0,,
+1,900,"Fishing, Hunting and Trapping",100.0,,
+1,1000,Metal Mining,1000.0,,
+1,1200,Bituminous Coal and Lignite Mining,1000.0,,
+1,1300,Oil and Gas Extraction,1000.0,,
+1,1400,"Mining and Quarrying of Nonmetallic Minerals, except Fuels",1000.0,,
+1,1500,Building Construction General Contractors and Operative Builders,1500.0,,
+1,1600,Heavy Construction other than Building Construction Contractors,1500.0,,
+1,1700,Construction Special Trade Contractors,1500.0,,
+1,2000,Food and Kindred Products,2000.0,,
+1,2100,Tobacco Products,2000.0,,
+1,2200,Textile Mill Products,2000.0,,
+1,2300,Apparel and other Finished Products Made from Fabrics and Similar Materials,2000.0,,
+1,2400,"Lumber and Wood Products, except Furniture",2000.0,,
+1,2500,Furniture and Fixtures,2000.0,,
+1,2600,Paper and Allied Products,2000.0,,
+1,2700,"Printing, Publishing, and Allied Industries",2000.0,,
+1,2800,Chemicals and Allied Products,2000.0,,
+1,2900,Petroleum Refining and Related Industries,2000.0,,
+1,3000,Rubber and Miscellaneous Plastics Products,2000.0,,
+1,3100,Leather and Leather Products,2000.0,,
+1,3200,"Stone, Clay, Glass, and Concrete Products",2000.0,,
+1,3300,Primary Metal Industries,2000.0,,
+1,3400,"Fabricated Metal Products, except Machinery and Transportation Equipment",2000.0,,
+1,3500,Industrial and Commercial Machinery and Computer Equipment,2000.0,,
+1,3600,"Electronic and other Electrical Equipment and Components, except Computer Equipment",2000.0,,
+1,3700,Transportation Equipment,2000.0,,
+1,3800,"Measuring, Analyzing, and Controlling Instruments; Photographic, Medical and Optical Goods; Watches and Clocks",2000.0,,
+1,3900,Miscellaneous Manufacturing Industries,2000.0,,
+1,4000,Railroad Transportation,4000.0,,
+1,4100,Local and Suburban Transit and Interurban Highway Passenger Transportation,4000.0,,
+1,4200,Motor Freight Transportation and Warehousing,4000.0,,
+1,4300,United States Postal Service,4000.0,,
+1,4400,Water Transportation,4000.0,,
+1,4500,Transportation by Air,4000.0,,
+1,4600,"Pipelines, except Natural Gas",4000.0,,
+1,4700,Transportation Services,4000.0,,
+1,4800,Communications,4000.0,,
+1,4900,"Electric, Gas and Sanitary Services",4000.0,,
+1,5000,Wholesale Trade-Durable Goods,5000.0,,
+1,5100,Wholesale Trade-Nondurable Goods,5000.0,,
+1,5200,"Building Materials, Hardware, Garden Supply, and Mobile Home Dealers",5200.0,,
+1,5300,General Merchandise Stores,5200.0,,
+1,5400,Food Stores,5200.0,,
+1,5500,Automotive Dealers and Gasoline Service Stations,5200.0,,
+1,5600,Apparel and Accessory Stores,5200.0,,
+1,5700,"Home Furniture, Furnishings, and Equipment Stores",5200.0,,
+1,5800,Eating and Drinking Places,5200.0,,
+1,5900,Miscellaneous Retail,5200.0,,
+1,6000,Depository Institutions,6000.0,,
+1,6100,Non-Depository Credit Institutions,6000.0,,
+1,6200,"Security and Commodity Brokers, Dealers, Exchanges, and Services",6000.0,,
+1,6300,Insurance Carriers,6000.0,,
+1,6400,"Insurance Agents, Brokers and Service",6000.0,,
+1,6500,Real Estate,6000.0,,
+1,6700,Holding and other Investment Offices,6000.0,,
+1,7000,"Hotels, Rooming Houses, Camps, and other Lodging Places",7000.0,,
+1,7200,Personal Services,7000.0,,
+1,7300,Business Services,7000.0,,
+1,7500,"Automotive Repair, Services, and Parking",7000.0,,
+1,7600,Miscellaneous Repair Services,7000.0,,
+1,7800,Motion Pictures,7000.0,,
+1,7900,Amusement and Recreation Services,7000.0,,
+1,8000,Health Services,7000.0,,
+1,8100,Legal Services,7000.0,,
+1,8200,Educational Services,7000.0,,
+1,8300,Social Services,7000.0,,
+1,8400,"Museums, Art Galleries, and Botanical and Zoological Gardens",7000.0,,
+1,8600,Membership Organizations,7000.0,,
+1,8700,"Engineering, Accounting, Research, Management, and Related Services",7000.0,,
+1,8800,Private Households,7000.0,,
+1,8900,Miscellaneous Services,7000.0,,
+1,9100,"Executive, Legislative, and General Government, except Finance",9100.0,,
+1,9200,"Justice, Public Order, and Safety",9100.0,,
+1,9300,"Public Finance, Taxation, and Monetary Policy",9100.0,,
+1,9400,Administration of Human Resource Programs,9100.0,,
+1,9500,Administration of Environmental Quality and Housing Programs,9100.0,,
+1,9600,Administration of Economic Programs,9100.0,,
+1,9700,National Security and International Affairs,9100.0,,
+1,9900,Nonclassifiable Establishments,9100.0,,
+2,110,Cash Grains,100.0,100.0,
+2,130,"Field Crops, except Cash Grains",100.0,100.0,
+2,160,Vegetables and Melons,100.0,100.0,
+2,170,Fruits and Tree Nuts,100.0,100.0,
+2,180,Horticultural Specialties,100.0,100.0,
+2,190,"General Farms, Primarily Crop",100.0,100.0,
+2,210,"Livestock, except Dairy, Poultry, etc.",100.0,200.0,
+2,240,Dairy Farms,100.0,200.0,
+2,250,Poultry and Eggs,100.0,200.0,
+2,270,Animal Specialties,100.0,200.0,
+2,290,"General Farms, Primarily Livestock",100.0,200.0,
+2,710,Soil Preparation Services,100.0,700.0,
+2,720,Crop Services,100.0,700.0,
+2,740,Veterinary Services,100.0,700.0,
+2,750,"Animal Services, except Veterinary",100.0,700.0,
+2,760,Farm Labor and Management Services,100.0,700.0,
+2,780,Landscape and Horticultural Services,100.0,700.0,
+2,810,Timber Tracts,100.0,800.0,
+2,830,Forest Nurseries and Gathering of Forest Products,100.0,800.0,
+2,850,Forestry Services,100.0,800.0,
+2,910,Commercial Fishing,100.0,900.0,
+2,920,Fish Hatcheries and Preserves,100.0,900.0,
+2,970,"Hunting, Trapping, Game Propagation",100.0,900.0,
+2,1010,Iron Ores,1000.0,1000.0,
+2,1020,Copper Ores,1000.0,1000.0,
+2,1030,Lead and Zinc Ores,1000.0,1000.0,
+2,1040,Gold and Silver Ores,1000.0,1000.0,
+2,1060,"Ferroalloy Ores, except Vanadium",1000.0,1000.0,
+2,1080,Metal Mining Services,1000.0,1000.0,
+2,1090,Miscellaneous Metal Ores,1000.0,1000.0,
+2,1220,Bituminous Coal and Lignite Mining,1000.0,1200.0,
+2,1230,Anthracite Mining,1000.0,1200.0,
+2,1240,Coal Mining Services,1000.0,1200.0,
+2,1310,Crude Petroleum and Natural Gas,1000.0,1300.0,
+2,1320,Natural Gas Liquids,1000.0,1300.0,
+2,1380,Oil and Gas Field Services,1000.0,1300.0,
+2,1410,Dimension Stone,1000.0,1400.0,
+2,1420,"Crushed and Broken Stone, including Riprap",1000.0,1400.0,
+2,1440,Sand and Gravel,1000.0,1400.0,
+2,1450,"Clay, Ceramic, and Refractory Minerals",1000.0,1400.0,
+2,1470,Chemical and Fertilizer Mineral Mining,1000.0,1400.0,
+2,1480,"Nonmetallic Minerals Services, except Fuels",1000.0,1400.0,
+2,1490,"Miscellaneous Nonmetallic Minerals, except Fuels",1000.0,1400.0,
+2,1520,General Building Contractors,1500.0,1500.0,
+2,1530,Operative Builders,1500.0,1500.0,
+2,1540,General Building Contractors,1500.0,1500.0,
+2,1610,"Highway and Street Construction, except Elevated Highways",1500.0,1600.0,
+2,1620,"Heavy Construction, except Highway and Street",1500.0,1600.0,
+2,1710,"Plumbing, Heating and Air",1500.0,1700.0,
+2,1720,Painting and Paper Hanging,1500.0,1700.0,
+2,1730,Electrical Work,1500.0,1700.0,
+2,1740,"Masonry, Stonework, Tile Setting, and Plastering",1500.0,1700.0,
+2,1750,Carpentry and Floor Work,1500.0,1700.0,
+2,1760,"Roofing, Siding, and Sheet Metal Work",1500.0,1700.0,
+2,1770,Concrete Work,1500.0,1700.0,
+2,1780,Water Well Drilling,1500.0,1700.0,
+2,1790,Miscellaneous Special Trade Contractors,1500.0,1700.0,
+2,2010,Meat Products,2000.0,2000.0,
+2,2020,Dairy Products,2000.0,2000.0,
+2,2030,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Specialties",2000.0,2000.0,
+2,2040,Grain Mill Products,2000.0,2000.0,
+2,2050,Bakery Products,2000.0,2000.0,
+2,2060,Sugar and Confectionery Products,2000.0,2000.0,
+2,2070,Fats and Oils,2000.0,2000.0,
+2,2080,Beverages,2000.0,2000.0,
+2,2090,Miscellaneous Food Preparations and Kindred Products,2000.0,2000.0,
+2,2110,Cigarettes,2000.0,2100.0,
+2,2120,Cigars,2000.0,2100.0,
+2,2130,Chewing and Smoking Tobacco and Snuff,2000.0,2100.0,
+2,2140,Tobacco Stemming and Redrying,2000.0,2100.0,
+2,2210,"Broadwoven Fabric Mills, Cotton",2000.0,2200.0,
+2,2220,"Broadwoven Fabric Mills, Manmade Fiber and Silk",2000.0,2200.0,
+2,2230,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",2000.0,2200.0,
+2,2240,"Narrow Fabric and other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber",2000.0,2200.0,
+2,2250,Knitting Mills,2000.0,2200.0,
+2,2260,"Dyeing and Finishing Textiles, except Wool Fabrics",2000.0,2200.0,
+2,2270,Carpets and Rugs,2000.0,2200.0,
+2,2280,Yarn and Thread Mills,2000.0,2200.0,
+2,2290,Miscellaneous Textile Goods,2000.0,2200.0,
+2,2310,"Men's and Boys' Suits, Coats, and Overcoats",2000.0,2300.0,
+2,2320,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",2000.0,2300.0,
+2,2330,"Women's, Misses', and Juniors' Outerwear",2000.0,2300.0,
+2,2340,"Women's, Misses', Children's, and Infants' Underwear and Nightwear",2000.0,2300.0,
+2,2350,"Hats, Caps, and Millinery",2000.0,2300.0,
+2,2360,"Girls', Children's, and Infants' Outerwear",2000.0,2300.0,
+2,2370,Fur Goods,2000.0,2300.0,
+2,2380,Miscellaneous Apparel and Accessories,2000.0,2300.0,
+2,2390,Miscellaneous Fabricated Textile Products,2000.0,2300.0,
+2,2410,Logging,2000.0,2400.0,
+2,2420,Sawmills and Planing Mills,2000.0,2400.0,
+2,2430,"Millwork, Veneer, Plywood, and Structural Wood",2000.0,2400.0,
+2,2440,Wood Containers,2000.0,2400.0,
+2,2450,Wood Buildings and Mobile Homes,2000.0,2400.0,
+2,2490,Miscellaneous Wood Products,2000.0,2400.0,
+2,2510,Household Furniture,2000.0,2500.0,
+2,2520,Office Furniture,2000.0,2500.0,
+2,2530,Public Building and Related Furniture,2000.0,2500.0,
+2,2540,"Partitions, Shelving, Lockers, and Office and Store Fixtures",2000.0,2500.0,
+2,2590,Miscellaneous Furniture and Fixtures,2000.0,2500.0,
+2,2610,Pulp Mills,2000.0,2600.0,
+2,2620,Paper Mills,2000.0,2600.0,
+2,2630,Paperboard Mills,2000.0,2600.0,
+2,2650,Paperboard Containers and Boxes,2000.0,2600.0,
+2,2670,"Converted Paper and Paperboard Products, except Containers and Boxes",2000.0,2600.0,
+2,2710,"Newspapers: Publishing, or Publishing and Printing",2000.0,2700.0,
+2,2720,"Periodicals: Publishing, or Publishing and Printing",2000.0,2700.0,
+2,2730,Books,2000.0,2700.0,
+2,2740,Miscellaneous Publishing,2000.0,2700.0,
+2,2750,Commercial Printing,2000.0,2700.0,
+2,2760,Manifold Business Forms,2000.0,2700.0,
+2,2770,Greeting Card,2000.0,2700.0,
+2,2780,"Blankbooks, Looseleaf Binders, and Bookbinding",2000.0,2700.0,
+2,2790,Service Industries for the Printing Trade,2000.0,2700.0,
+2,2810,Industrial Inorganic Chemicals,2000.0,2800.0,
+2,2820,"Plastics Materials and Synthetic Resins, Synthetic Rubber",2000.0,2800.0,
+2,2830,Drugs,2000.0,2800.0,
+2,2840,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations",2000.0,2800.0,
+2,2850,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",2000.0,2800.0,
+2,2860,Industrial Organic Chemicals,2000.0,2800.0,
+2,2870,Agricultural Chemicals,2000.0,2800.0,
+2,2890,Miscellaneous Chemical Products,2000.0,2800.0,
+2,2910,Petroleum Refining,2000.0,2900.0,
+2,2950,Asphalt Paving and Roofing Materials,2000.0,2900.0,
+2,2990,Miscellaneous Products of Petroleum and Coal,2000.0,2900.0,
+2,3010,Tires and Inner Tubes,2000.0,3000.0,
+2,3020,Rubber and Plastics Footwear,2000.0,3000.0,
+2,3050,"Gaskets, Packing, and Sealing Devices and Rubber",2000.0,3000.0,
+2,3060,"Fabricated Rubber Products, Not Elsewhere Classified",2000.0,3000.0,
+2,3080,Miscellaneous Plastics Products,2000.0,3000.0,
+2,3110,Leather Tanning and Finishing,2000.0,3100.0,
+2,3130,Boot and Shoe Cut Stock and Findings,2000.0,3100.0,
+2,3140,"Footwear, Except Rubber",2000.0,3100.0,
+2,3150,Leather Gloves and Mittens,2000.0,3100.0,
+2,3160,Luggage,2000.0,3100.0,
+2,3170,Handbags and other Personal Leather Goods,2000.0,3100.0,
+2,3190,"Leather Goods, Not Elsewhere Classified",2000.0,3100.0,
+2,3210,Flat Glass,2000.0,3200.0,
+2,3220,"Glass and Glassware, Pressed or Blown",2000.0,3200.0,
+2,3230,"Glass Products, Made of Purchased Glass",2000.0,3200.0,
+2,3240,"Cement, Hydraulic",2000.0,3200.0,
+2,3250,Structural Clay Products,2000.0,3200.0,
+2,3260,Pottery and Related Products,2000.0,3200.0,
+2,3270,"Concrete, Gypsum, and Plaster Products",2000.0,3200.0,
+2,3280,Cut Stone and Stone Products,2000.0,3200.0,
+2,3290,"Abrasive, Asbestos, and Miscellaneous",2000.0,3200.0,
+2,3310,"Steel Works, Blast Furnaces, and Rolling and Finishing Mills",2000.0,3300.0,
+2,3320,Iron and Steel Foundries,2000.0,3300.0,
+2,3330,Primary Smelting and Refining of Nonferrous,2000.0,3300.0,
+2,3340,Secondary Smelting and Refining of Nonferrous,2000.0,3300.0,
+2,3350,"Rolling, Drawing, and Extruding of Nonferrous",2000.0,3300.0,
+2,3360,Nonferrous Foundries (Castings),2000.0,3300.0,
+2,3390,Miscellaneous Primary Metal Products,2000.0,3300.0,
+2,3410,Metal Cans and Shipping Containers,2000.0,3400.0,
+2,3420,"Cutlery, Hand Tools, and General Hardware",2000.0,3400.0,
+2,3430,"Heating Equipment, except Electric and Warm Air; and Plumbing Fixtures",2000.0,3400.0,
+2,3440,Fabricated Structural Metal Products,2000.0,3400.0,
+2,3450,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washers",2000.0,3400.0,
+2,3460,Metal Forgings and Stampings,2000.0,3400.0,
+2,3470,"Coating, Engraving, and Allied Services",2000.0,3400.0,
+2,3480,"Ordnance and Accessories, except Vehicles and Guided Missiles",2000.0,3400.0,
+2,3490,Miscellaneous Fabricated Metal Products,2000.0,3400.0,
+2,3510,Engines and Turbines,2000.0,3500.0,
+2,3520,Farm and Garden Machinery and Equipment,2000.0,3500.0,
+2,3530,"Construction, Mining, and Materials Handling",2000.0,3500.0,
+2,3540,Metalworking Machinery and Equipment,2000.0,3500.0,
+2,3550,"Special Industry Machinery, except Metalworking",2000.0,3500.0,
+2,3560,General Industrial Machinery and Equipment,2000.0,3500.0,
+2,3570,Computer and Office Equipment,2000.0,3500.0,
+2,3580,Refrigeration and Service Industry Machinery,2000.0,3500.0,
+2,3590,Miscellaneous Industrial and Commercial,2000.0,3500.0,
+2,3610,Electric Transmission and Distribution Equipment,2000.0,3600.0,
+2,3620,Electrical Industrial Apparatus,2000.0,3600.0,
+2,3630,Household Appliances,2000.0,3600.0,
+2,3640,Electric Lighting and Wiring Equipment,2000.0,3600.0,
+2,3650,Household Audio and Video Equipment,2000.0,3600.0,
+2,3660,Communications Equipment,2000.0,3600.0,
+2,3670,Electronic Components and Accessories,2000.0,3600.0,
+2,3690,"Miscellaneous Electrical Machinery, Equipment, and Supplies",2000.0,3600.0,
+2,3710,Motor Vehicles and Motor Vehicle Equipment,2000.0,3700.0,
+2,3720,Aircraft and Parts,2000.0,3700.0,
+2,3730,Ship and Boat Building and Repairing,2000.0,3700.0,
+2,3740,Railroad Equipment,2000.0,3700.0,
+2,3750,"Motorcycles, Bicycles, and Parts",2000.0,3700.0,
+2,3760,Guided Missiles and Space Vehicles and Parts,2000.0,3700.0,
+2,3790,Miscellaneous Transportation Equipment,2000.0,3700.0,
+2,3810,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment",2000.0,3800.0,
+2,3820,"Laboratory Apparatus and Analytical, Optical, Measuring, and Controlling Instruments",2000.0,3800.0,
+2,3840,"Surgical, Medical, and Dental Instruments and Supplies",2000.0,3800.0,
+2,3850,Ophthalmic Goods,2000.0,3800.0,
+2,3860,Photographic Equipment and Supplies,2000.0,3800.0,
+2,3870,"Watches, Clocks, Clockwork Operated Devices, and Parts",2000.0,3800.0,
+2,3910,"Jewelry, Silverware, and Plated Ware",2000.0,3900.0,
+2,3930,Musical Instruments,2000.0,3900.0,
+2,3940,"Dolls, Toys, Games and Sporting and Athletic",2000.0,3900.0,
+2,3950,"Pens, Pencils, and other Artists Materials",2000.0,3900.0,
+2,3960,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Notions, except Precious Metal",2000.0,3900.0,
+2,3990,Miscellaneous Manufacturing Industries,2000.0,3900.0,
+2,4010,Railroads,4000.0,4000.0,
+2,4110,Local and Suburban Passenger Transportation,4000.0,4100.0,
+2,4120,Taxicabs,4000.0,4100.0,
+2,4130,Intercity and Rural Bus Transportation,4000.0,4100.0,
+2,4140,Bus Charter Service,4000.0,4100.0,
+2,4150,School Buses,4000.0,4100.0,
+2,4170,Terminal and Service Facilities for Motor Vehicle,4000.0,4100.0,
+2,4210,"Trucking and Courier Services, except Air",4000.0,4200.0,
+2,4220,Public Warehousing and Storage,4000.0,4200.0,
+2,4230,Terminal and Joint Terminal Maintenance,4000.0,4200.0,
+2,4310,United States Postal Service,4000.0,4300.0,
+2,4410,Deep Sea Foreign Transportation of Freight,4000.0,4400.0,
+2,4420,Deep Sea Domestic Transportation of Freight,4000.0,4400.0,
+2,4430,Freight Transportation on the Great Lakes,4000.0,4400.0,
+2,4440,"Water Transportation of Freight, Not Elsewhere Classified",4000.0,4400.0,
+2,4480,Water Transportation of Passengers,4000.0,4400.0,
+2,4490,Services Incidental to Water Transportation,4000.0,4400.0,
+2,4510,"Air Transportation, Scheduled, and Air Courier",4000.0,4500.0,
+2,4520,"Air Transportation, Nonscheduled",4000.0,4500.0,
+2,4580,"Airports, Flying Fields, and Airport Terminal",4000.0,4500.0,
+2,4610,"Pipelines, except Natural Gas",4000.0,4600.0,
+2,4720,Arrangement of Passenger Transportation,4000.0,4700.0,
+2,4730,Arrangement of Transportation of Freight and Cargo,4000.0,4700.0,
+2,4740,Rental of Railroad Cars,4000.0,4700.0,
+2,4780,Miscellaneous Services Incidental to Transportation,4000.0,4700.0,
+2,4810,Telephone Communications,4000.0,4800.0,
+2,4820,Telegraph and other Message Communications,4000.0,4800.0,
+2,4830,Radio and Television Broadcasting Stations,4000.0,4800.0,
+2,4840,Cable and other Pay Television Services,4000.0,4800.0,
+2,4890,"Communication Services, Not Elsewhere Classified",4000.0,4800.0,
+2,4910,Electric Services,4000.0,4900.0,
+2,4920,Gas Production and Distribution,4000.0,4900.0,
+2,4930,"Combination Electric and Gas, and other Utility",4000.0,4900.0,
+2,4940,Water Supply,4000.0,4900.0,
+2,4950,Sanitary Services,4000.0,4900.0,
+2,4960,Steam and Air,4000.0,4900.0,
+2,4970,Irrigation Systems,4000.0,4900.0,
+2,5010,Motor Vehicles and Motor Vehicle Parts and Supplies,5000.0,5000.0,
+2,5020,Furniture and Home Furnishings,5000.0,5000.0,
+2,5030,Lumber and other Construction Materials,5000.0,5000.0,
+2,5040,Professional and Commercial Equipment and Supplies,5000.0,5000.0,
+2,5050,"Metals and Minerals, except Petroleum",5000.0,5000.0,
+2,5060,Electrical Goods,5000.0,5000.0,
+2,5070,"Hardware, and Plumbing and Heating Equipment",5000.0,5000.0,
+2,5080,"Machinery, Equipment, and Supplies",5000.0,5000.0,
+2,5090,Miscellaneous Durable Goods,5000.0,5000.0,
+2,5110,Paper and Paper Products,5000.0,5100.0,
+2,5120,"Drugs, Drug Proprietaries, and Druggists' Sundries",5000.0,5100.0,
+2,5130,"Apparel, Piece Goods, and Notions",5000.0,5100.0,
+2,5140,Groceries and Related Products,5000.0,5100.0,
+2,5150,Farm,5000.0,5100.0,
+2,5160,Chemicals and Allied Products,5000.0,5100.0,
+2,5170,Petroleum and Petroleum Products,5000.0,5100.0,
+2,5180,"Beer, Wine, and Distilled Alcoholic Beverages",5000.0,5100.0,
+2,5190,Miscellaneous Non,5000.0,5100.0,
+2,5210,Lumber and other Building Materials Dealers,5200.0,5200.0,
+2,5230,"Paint, Glass, and Wallpaper Stores",5200.0,5200.0,
+2,5250,Hardware Stores,5200.0,5200.0,
+2,5260,"Retail Nurseries, Lawn and Garden Supply Stores",5200.0,5200.0,
+2,5270,Mobile Home Dealers,5200.0,5200.0,
+2,5310,Department Stores,5200.0,5300.0,
+2,5330,Variety Stores,5200.0,5300.0,
+2,5390,Miscellaneous General Merchandise Stores,5200.0,5300.0,
+2,5410,Grocery Stores,5200.0,5400.0,
+2,5420,"Meat and Fish (Seafood) Markets, including Freezer Provisioners",5200.0,5400.0,
+2,5430,Fruit Stores and Vegetable Markets,5200.0,5400.0,
+2,5440,"Candy, Nut, and Confectionery Stores",5200.0,5400.0,
+2,5450,Dairy Products Stores,5200.0,5400.0,
+2,5460,Retail Bakeries,5200.0,5400.0,
+2,5490,Miscellaneous Food Stores,5200.0,5400.0,
+2,5510,Motor Vehicle Dealers (New and Used),5200.0,5500.0,
+2,5520,Motor Vehicle Dealers (Used Only),5200.0,5500.0,
+2,5530,Auto and Home Supply Stores,5200.0,5500.0,
+2,5540,Gasoline Service Stations,5200.0,5500.0,
+2,5550,Boat Dealers,5200.0,5500.0,
+2,5560,Recreation Vehicle Dealers,5200.0,5500.0,
+2,5570,Motorcycle Dealers,5200.0,5500.0,
+2,5590,"Automotive Dealers, Not Elsewhere Classified",5200.0,5500.0,
+2,5610,Men's and Boys' Clothing and Accessory Stores,5200.0,5600.0,
+2,5620,Women's Clothing Stores,5200.0,5600.0,
+2,5630,Women's Accessory and Specialty Stores,5200.0,5600.0,
+2,5640,Children's and Infants' Wear Stores,5200.0,5600.0,
+2,5650,Family Clothing Stores,5200.0,5600.0,
+2,5660,Shoe Stores,5200.0,5600.0,
+2,5690,Miscellaneous Apparel and Accessory Stores,5200.0,5600.0,
+2,5710,Home Furniture and Furnishings Stores,5200.0,5700.0,
+2,5720,Household Appliance Stores,5200.0,5700.0,
+2,5730,"Radio, Television, Consumer Electronics, and Music Stores",5200.0,5700.0,
+2,5810,Eating and Drinking Places,5200.0,5800.0,
+2,5910,Drug Stores and Proprietary Stores,5200.0,5900.0,
+2,5920,Liquor Stores,5200.0,5900.0,
+2,5930,Used Merchandise Stores,5200.0,5900.0,
+2,5940,Miscellaneous Shopping Goods Stores,5200.0,5900.0,
+2,5960,Nonstore Retailers,5200.0,5900.0,
+2,5980,Fuel Dealers,5200.0,5900.0,
+2,5990,"Retail Stores, Not Elsewhere Classified",5200.0,5900.0,
+2,6010,Central Reserve Depository Institutions,6000.0,6000.0,
+2,6020,Commercial Banks,6000.0,6000.0,
+2,6030,Savings Institutions,6000.0,6000.0,
+2,6060,Credit Unions,6000.0,6000.0,
+2,6080,Foreign Banking and Branches and Agencies of Foreign Banks,6000.0,6000.0,
+2,6090,Functions Related to Depository Banking,6000.0,6000.0,
+2,6110,Federal and Federally,6000.0,6100.0,
+2,6140,Personal Credit Institutions,6000.0,6100.0,
+2,6150,Business Credit Institutions,6000.0,6100.0,
+2,6160,Mortgage Bankers and Brokers,6000.0,6100.0,
+2,6210,"Security Brokers, Dealers, and Flotation",6000.0,6200.0,
+2,6220,Commodity Contracts Brokers and Dealers,6000.0,6200.0,
+2,6230,Security and Commodity Exchanges,6000.0,6200.0,
+2,6280,Services Allied with the Exchange of Securities,6000.0,6200.0,
+2,6310,Life Insurance,6000.0,6300.0,
+2,6320,Accident and Health Insurance and Medical,6000.0,6300.0,
+2,6330,"Fire, Marine, and Casualty Insurance",6000.0,6300.0,
+2,6350,Surety Insurance,6000.0,6300.0,
+2,6360,Title Insurance,6000.0,6300.0,
+2,6370,"Pension, Health, and Welfare Funds",6000.0,6300.0,
+2,6390,"Insurance Carriers, Not Elsewhere Classified",6000.0,6300.0,
+2,6410,"Insurance Agents, Brokers and Service",6000.0,6400.0,
+2,6510,Real Estate Operators (except Developers) and Lessors,6000.0,6500.0,
+2,6530,Real Estate Agents and Managers,6000.0,6500.0,
+2,6540,Title Abstract Offices,6000.0,6500.0,
+2,6550,Land Subdividers and Developers,6000.0,6500.0,
+2,6710,Holding Offices,6000.0,6700.0,
+2,6720,Investment Offices,6000.0,6700.0,
+2,6730,Trusts,6000.0,6700.0,
+2,6790,Miscellaneous Investing,6000.0,6700.0,
+2,7010,Hotels and Motels,7000.0,7000.0,
+2,7020,Rooming and Boarding Houses,7000.0,7000.0,
+2,7030,Camps and Recreational Vehicle Parks,7000.0,7000.0,
+2,7040,"Organization Hotels and Lodging Houses, on Membership Basis",7000.0,7000.0,
+2,7210,"Laundry, Cleaning, and Garment Services",7000.0,7200.0,
+2,7220,"Photographic Studios, Portrait",7000.0,7200.0,
+2,7230,Beauty Shops,7000.0,7200.0,
+2,7240,Barber Shops,7000.0,7200.0,
+2,7250,Shoe Repair Shops and Shoeshine Parlors,7000.0,7200.0,
+2,7260,Funeral Service and Crematories,7000.0,7200.0,
+2,7290,Miscellaneous Personal Services,7000.0,7200.0,
+2,7310,Advertising,7000.0,7300.0,
+2,7320,"Consumer Credit Reporting Agencies, Mercantile",7000.0,7300.0,
+2,7330,"Mailing, Reproduction, Commercial Art and Photography, and Stenographic Services",7000.0,7300.0,
+2,7340,Services to Dwellings and other Buildings,7000.0,7300.0,
+2,7350,Miscellaneous Equipment Rental and Leasing,7000.0,7300.0,
+2,7360,Personnel Supply Services,7000.0,7300.0,
+2,7370,"Computer Programming, Data Processing, and other Computer Related Services",7000.0,7300.0,
+2,7380,Miscellaneous Business Services,7000.0,7300.0,
+2,7510,"Automotive Rental and Leasing, without Drivers",7000.0,7500.0,
+2,7520,Automobile Parking,7000.0,7500.0,
+2,7530,Automotive Repair Shops,7000.0,7500.0,
+2,7540,"Automotive Services, except Repair",7000.0,7500.0,
+2,7620,Electrical Repair Shops,7000.0,7600.0,
+2,7630,"Watch, Clock, and Jewelry Repair",7000.0,7600.0,
+2,7640,Reupholstery and Furniture Repair,7000.0,7600.0,
+2,7690,Miscellaneous Repair Shops and Related Services,7000.0,7600.0,
+2,7810,Motion Picture Production and Allied Services,7000.0,7800.0,
+2,7820,Motion Picture Distribution and Allied Services,7000.0,7800.0,
+2,7830,Motion Picture Theaters,7000.0,7800.0,
+2,7840,Video Tape Rental,7000.0,7800.0,
+2,7910,"Dance Studios, Schools, and Halls",7000.0,7900.0,
+2,7920,Theatrical Producers (except Motion Picture),7000.0,7900.0,
+2,7930,Bowling Centers,7000.0,7900.0,
+2,7940,Commercial Sports,7000.0,7900.0,
+2,7990,Miscellaneous Amusement and Recreation,7000.0,7900.0,
+2,8010,Offices and Clinics of Doctors of Medicine,7000.0,8000.0,
+2,8020,Offices and Clinics of Dentists,7000.0,8000.0,
+2,8030,Offices and Clinics of Doctors of Osteopathy,7000.0,8000.0,
+2,8040,Offices and Clinics of other Health Practitioners,7000.0,8000.0,
+2,8050,Nursing and Personal Care Facilities,7000.0,8000.0,
+2,8060,Hospitals,7000.0,8000.0,
+2,8070,Medical and Dental Laboratories,7000.0,8000.0,
+2,8080,Home Health Care Services,7000.0,8000.0,
+2,8090,"Miscellaneous Health and Allied Services, Not Elsewhere Classified",7000.0,8000.0,
+2,8110,Legal Services,7000.0,8100.0,
+2,8210,Elementary and Secondary Schools,7000.0,8200.0,
+2,8220,"Colleges, Universities, Professional Schools, Junior Colleges, and Technical Institutes",7000.0,8200.0,
+2,8230,Libraries,7000.0,8200.0,
+2,8240,Vocational Schools,7000.0,8200.0,
+2,8290,"Schools and Educational Services, Not Elsewhere Classified",7000.0,8200.0,
+2,8320,Individual and Family Social Services,7000.0,8300.0,
+2,8330,Job Training and Vocational Rehabilitation,7000.0,8300.0,
+2,8350,Child Day Care Services,7000.0,8300.0,
+2,8360,Residential Care,7000.0,8300.0,
+2,8390,"Social Services, Not Elsewhere Classified",7000.0,8300.0,
+2,8410,Museums and Art Galleries,7000.0,8400.0,
+2,8420,Arboreta and Botanical or Zoological Gardens,7000.0,8400.0,
+2,8610,Business Associations,7000.0,8600.0,
+2,8620,Professional Membership Organizations,7000.0,8600.0,
+2,8630,Labor Unions and Similar Labor Organizations,7000.0,8600.0,
+2,8640,"Civic, Social, and Fraternal Associations",7000.0,8600.0,
+2,8650,Political Organizations,7000.0,8600.0,
+2,8660,Religious Organizations,7000.0,8600.0,
+2,8690,"Membership Organizations, Not Elsewhere Classified",7000.0,8600.0,
+2,8710,"Engineering, Architectural, and Surveying",7000.0,8700.0,
+2,8720,"Accounting, Auditing, and Bookkeeping Services",7000.0,8700.0,
+2,8730,"Research, Development, and Testing Services",7000.0,8700.0,
+2,8740,Management and Public Relations Services,7000.0,8700.0,
+2,8810,Private Households,7000.0,8800.0,
+2,8990,Miscellaneous Services,7000.0,8900.0,
+2,9110,Executive Offices,9100.0,9100.0,
+2,9120,Legislative Bodies,9100.0,9100.0,
+2,9130,Executive and Legislative Offices Combined,9100.0,9100.0,
+2,9190,"General Government, Not Elsewhere Classified",9100.0,9100.0,
+2,9210,Courts,9100.0,9200.0,
+2,9220,Public Order and Safety,9100.0,9200.0,
+2,9310,"Public Finance, Taxation, and Monetary Policy",9100.0,9300.0,
+2,9410,Administration of Educational Programs,9100.0,9400.0,
+2,9430,Administration of Public Health Programs,9100.0,9400.0,
+2,9440,"Administration of Social, Human Resource and Income Maintenance Programs",9100.0,9400.0,
+2,9450,"Administration of Veterans' Affairs, except Health and Insurance",9100.0,9400.0,
+2,9510,Administration of Environmental Quality,9100.0,9500.0,
+2,9530,Administration of Housing and Urban Planning,9100.0,9500.0,
+2,9610,Administration of General Economic Programs,9100.0,9600.0,
+2,9620,Regulation and Administration of Transportation,9100.0,9600.0,
+2,9630,"Regulation and Administration of Communications, Electric, Gas, and other Utilities",9100.0,9600.0,
+2,9640,Regulation of Agricultural Marketing and Commodities,9100.0,9600.0,
+2,9650,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",9100.0,9600.0,
+2,9660,Space Research and Technology,9100.0,9600.0,
+2,9710,National Security,9100.0,9700.0,
+2,9720,International Affairs,9100.0,9700.0,
+2,9990,Nonclassifiable Establishments,9100.0,9900.0,
+3,111,Wheat,100.0,100.0,110.0
+3,112,Rice,100.0,100.0,110.0
+3,115,Corn,100.0,100.0,110.0
+3,116,Soybeans,100.0,100.0,110.0
+3,119,"Cash Grains, Not Elsewhere Classified",100.0,100.0,110.0
+3,131,Cotton,100.0,100.0,130.0
+3,132,Tobacco,100.0,100.0,130.0
+3,133,Sugarcane and Sugar Beets,100.0,100.0,130.0
+3,134,Irish Potatoes,100.0,100.0,130.0
+3,139,"Field Crops, except Cash Grains, Not Elsewhere Classified",100.0,100.0,130.0
+3,161,Vegetables and Melons,100.0,100.0,160.0
+3,171,Berry Crops,100.0,100.0,170.0
+3,172,Grapes,100.0,100.0,170.0
+3,173,Tree Nuts,100.0,100.0,170.0
+3,174,Citrus Fruits,100.0,100.0,170.0
+3,175,Deciduous Tree Fruits,100.0,100.0,170.0
+3,179,"Fruits and Tree Nuts, Not Elsewhere Classified",100.0,100.0,170.0
+3,181,Ornamental Floriculture and Nursery Products,100.0,100.0,180.0
+3,182,Food Crops Grown Under Cover,100.0,100.0,180.0
+3,191,"General Farms, Primarily Crop",100.0,100.0,190.0
+3,211,Beef Cattle Feedlots,100.0,200.0,210.0
+3,212,"Beef Cattle, except Feedlots",100.0,200.0,210.0
+3,213,Hogs,100.0,200.0,210.0
+3,214,Sheep and Goats,100.0,200.0,210.0
+3,219,"General Livestock, except Dairy and Poultry",100.0,200.0,210.0
+3,241,Dairy Farms,100.0,200.0,240.0
+3,251,"Broiler, Fryer, and Roaster Chickens",100.0,200.0,250.0
+3,252,Chicken Eggs,100.0,200.0,250.0
+3,253,Turkeys and Turkey Eggs,100.0,200.0,250.0
+3,254,Poultry Hatcheries,100.0,200.0,250.0
+3,259,"Poultry and Eggs, Not Elsewhere Classified",100.0,200.0,250.0
+3,271,Fur,100.0,200.0,270.0
+3,272,Horses and Other Equines,100.0,200.0,270.0
+3,273,Animal Aquaculture,100.0,200.0,270.0
+3,279,"Animal Specialties, Not Elsewhere Classified",100.0,200.0,270.0
+3,291,"General Farms, Primarily Livestock",100.0,200.0,290.0
+3,711,Soil Preparation Services,100.0,700.0,710.0
+3,721,Crop Planting and Protection,100.0,700.0,720.0
+3,722,"Crop Harvesting, Primarily by Machine",100.0,700.0,720.0
+3,723,"Crop Preparation Services for Market, except Cotton Ginning",100.0,700.0,720.0
+3,724,Cotton Ginning,100.0,700.0,720.0
+3,741,Veterinary Services for Livestock,100.0,700.0,740.0
+3,742,Veterinary Services for Animal Specialties,100.0,700.0,740.0
+3,751,"Livestock Services, except Veterinary",100.0,700.0,750.0
+3,752,"Animal Specialty Services, except Veterinary",100.0,700.0,750.0
+3,761,Farm Labor Contractors and Crew Leaders,100.0,700.0,760.0
+3,762,Farm Management Services,100.0,700.0,760.0
+3,781,Landscape Counseling and Planning,100.0,700.0,780.0
+3,782,Lawn and Garden Services,100.0,700.0,780.0
+3,783,Ornamental Shrub and Tree Services,100.0,700.0,780.0
+3,811,Timber Tracts,100.0,800.0,810.0
+3,831,Forest Nurseries and Gathering of Forest Products,100.0,800.0,830.0
+3,851,Forestry Services,100.0,800.0,850.0
+3,912,Finfish,100.0,900.0,910.0
+3,913,Shellfish,100.0,900.0,910.0
+3,919,Miscellaneous Marine Products,100.0,900.0,910.0
+3,921,Fish Hatcheries and Preserves,100.0,900.0,920.0
+3,971,"Hunting, Trapping, Game Propagation",100.0,900.0,970.0
+3,1011,Iron Ores,1000.0,1000.0,1010.0
+3,1021,Copper Ores,1000.0,1000.0,1020.0
+3,1031,Lead and Zinc Ores,1000.0,1000.0,1030.0
+3,1041,Gold Ores,1000.0,1000.0,1040.0
+3,1044,Silver Ores,1000.0,1000.0,1040.0
+3,1061,"Ferroalloy Ores, except Vanadium",1000.0,1000.0,1060.0
+3,1081,Metal Mining Services,1000.0,1000.0,1080.0
+3,1094,Uranium,1000.0,1000.0,1090.0
+3,1099,"Miscellaneous Metal Ores, Not Elsewhere Classified",1000.0,1000.0,1090.0
+3,1221,Bituminous Coal and Lignite Surface Mining,1000.0,1200.0,1220.0
+3,1222,Bituminous Coal Underground Mining,1000.0,1200.0,1220.0
+3,1231,Anthracite Mining,1000.0,1200.0,1230.0
+3,1241,Coal Mining Services,1000.0,1200.0,1240.0
+3,1311,Crude Petroleum and Natural Gas,1000.0,1300.0,1310.0
+3,1321,Natural Gas Liquids,1000.0,1300.0,1320.0
+3,1381,Drilling Oil and Gas Wells,1000.0,1300.0,1380.0
+3,1382,Oil and Gas Field Exploration Services,1000.0,1300.0,1380.0
+3,1389,"Oil and Gas Field Services, Not Elsewhere Classified",1000.0,1300.0,1380.0
+3,1411,Dimension Stone,1000.0,1400.0,1410.0
+3,1422,Crushed and Broken Limestone,1000.0,1400.0,1420.0
+3,1423,Crushed and Broken Granite,1000.0,1400.0,1420.0
+3,1429,"Crushed and Broken Stone, Not Elsewhere Classified",1000.0,1400.0,1420.0
+3,1442,Construction Sand and Gravel,1000.0,1400.0,1440.0
+3,1446,Industrial Sand,1000.0,1400.0,1440.0
+3,1455,Kaolin and Ball Clay,1000.0,1400.0,1450.0
+3,1459,"Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified",1000.0,1400.0,1450.0
+3,1474,"Potash, Soda, and Borate Minerals",1000.0,1400.0,1470.0
+3,1475,Phosphate Rock,1000.0,1400.0,1470.0
+3,1479,"Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified",1000.0,1400.0,1470.0
+3,1481,"Nonmetallic Minerals Services, except Fuels",1000.0,1400.0,1480.0
+3,1499,"Miscellaneous Nonmetallic Minerals, except Fuels",1000.0,1400.0,1490.0
+3,1521,General Contractors,1500.0,1500.0,1520.0
+3,1522,General Contractors,1500.0,1500.0,1520.0
+3,1531,Operative Builders,1500.0,1500.0,1530.0
+3,1541,General Contractors,1500.0,1500.0,1540.0
+3,1542,General Contractors,1500.0,1500.0,1540.0
+3,1611,"Highway and Street Construction, except Elevated Highways",1500.0,1600.0,1610.0
+3,1622,"Bridge, Tunnel, and Elevated Highway Construction",1500.0,1600.0,1620.0
+3,1623,"Water, Sewer, Pipeline, and Communications and Power Line Construction",1500.0,1600.0,1620.0
+3,1629,"Heavy Construction, Not Elsewhere Classified",1500.0,1600.0,1620.0
+3,1711,"Plumbing, Heating and Air",1500.0,1700.0,1710.0
+3,1721,Painting and Paper Hanging,1500.0,1700.0,1720.0
+3,1731,Electrical Work,1500.0,1700.0,1730.0
+3,1741,"Masonry, Stone Setting, and Other Stone Work",1500.0,1700.0,1740.0
+3,1742,"Plastering, Drywall, Acoustical, and Insulation Work",1500.0,1700.0,1740.0
+3,1743,"Terrazzo, Tile, Marble, and Mosaic Work",1500.0,1700.0,1740.0
+3,1751,Carpentry Work,1500.0,1700.0,1750.0
+3,1752,"Floor Laying and Other Floor Work, Not Elsewhere Classified",1500.0,1700.0,1750.0
+3,1761,"Roofing, Siding, and Sheet Metal Work",1500.0,1700.0,1760.0
+3,1771,Concrete Work,1500.0,1700.0,1770.0
+3,1781,Water Well Drilling,1500.0,1700.0,1780.0
+3,1791,Structural Steel Erection,1500.0,1700.0,1790.0
+3,1793,Glass and Glazing Work,1500.0,1700.0,1790.0
+3,1794,Excavation Work,1500.0,1700.0,1790.0
+3,1795,Wrecking and Demolition Work,1500.0,1700.0,1790.0
+3,1796,"Installation or Erection of Building Equipment, Not Elsewhere Classified",1500.0,1700.0,1790.0
+3,1799,"Special Trade Contractors, Not Elsewhere Classified",1500.0,1700.0,1790.0
+3,2011,Meat Packing Plants,2000.0,2000.0,2010.0
+3,2013,Sausages and Other Prepared Meats Products,2000.0,2000.0,2010.0
+3,2015,Poultry Slaughtering and Processing,2000.0,2000.0,2010.0
+3,2021,Creamery Butter,2000.0,2000.0,2020.0
+3,2022,"Natural, Processed, and Imitation Cheese",2000.0,2000.0,2020.0
+3,2023,"Dry, Condensed, and Evaporated Dairy Products",2000.0,2000.0,2020.0
+3,2024,Ice Cream and Frozen Desserts,2000.0,2000.0,2020.0
+3,2026,Fluid Milk,2000.0,2000.0,2020.0
+3,2032,Canned Specialties,2000.0,2000.0,2030.0
+3,2033,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies",2000.0,2000.0,2030.0
+3,2034,"Dried and Dehydrated Fruits, Vegetables, and Soup Mixes",2000.0,2000.0,2030.0
+3,2035,"Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings",2000.0,2000.0,2030.0
+3,2037,"Frozen Fruits, Fruit Juices, and Vegetables",2000.0,2000.0,2030.0
+3,2038,"Frozen Specialties, Not Elsewhere Classified",2000.0,2000.0,2030.0
+3,2041,Flour and other Grain Mill Products,2000.0,2000.0,2040.0
+3,2043,Cereal Breakfast Foods,2000.0,2000.0,2040.0
+3,2044,Rice Milling,2000.0,2000.0,2040.0
+3,2045,Prepared Flour Mixes and Doughs,2000.0,2000.0,2040.0
+3,2046,Wet Corn Milling,2000.0,2000.0,2040.0
+3,2047,Dog and Cat Food,2000.0,2000.0,2040.0
+3,2048,"Prepared Feed and Feed Ingredients for Animals and Fowls, except Dogs and Cats",2000.0,2000.0,2040.0
+3,2051,"Bread and other Bakery Products, except Cookies and Crackers",2000.0,2000.0,2050.0
+3,2052,Cookies and Crackers,2000.0,2000.0,2050.0
+3,2053,"Frozen Bakery Products, except Bread",2000.0,2000.0,2050.0
+3,2061,"Cane Sugar, except Refining",2000.0,2000.0,2060.0
+3,2062,Cane Sugar Refining,2000.0,2000.0,2060.0
+3,2063,Beet Sugar,2000.0,2000.0,2060.0
+3,2064,Candy and other Confectionery Products,2000.0,2000.0,2060.0
+3,2066,Chocolate and Cocoa Products,2000.0,2000.0,2060.0
+3,2067,Chewing Gum,2000.0,2000.0,2060.0
+3,2068,Salted and Roasted Nuts and Seeds,2000.0,2000.0,2060.0
+3,2074,Cottonseed Oil Mills,2000.0,2000.0,2070.0
+3,2075,Soybean Oil Mills,2000.0,2000.0,2070.0
+3,2076,"Vegetable Oil Mills, except Corn, Cottonseed, and Soybean",2000.0,2000.0,2070.0
+3,2077,Animal and Marine Fats and Oils,2000.0,2000.0,2070.0
+3,2079,"Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified",2000.0,2000.0,2070.0
+3,2082,Malt Beverages,2000.0,2000.0,2080.0
+3,2083,Malt,2000.0,2000.0,2080.0
+3,2084,"Wines, Brandy, and Brandy Spirits",2000.0,2000.0,2080.0
+3,2085,Distilled and Blended Liquors,2000.0,2000.0,2080.0
+3,2086,Bottled and Canned Soft Drinks and Carbonated Waters,2000.0,2000.0,2080.0
+3,2087,"Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified",2000.0,2000.0,2080.0
+3,2091,Canned and Cured Fish and Seafoods,2000.0,2000.0,2090.0
+3,2092,Prepared Fresh or Frozen Fish and Seafoods,2000.0,2000.0,2090.0
+3,2095,Roasted Coffee,2000.0,2000.0,2090.0
+3,2096,"Potato Chips, Corn Chips, and Similar Snacks",2000.0,2000.0,2090.0
+3,2097,Manufactured Ice,2000.0,2000.0,2090.0
+3,2098,"Macaroni, Spaghetti, Vermicelli, and Noodles",2000.0,2000.0,2090.0
+3,2099,"Food Preparations, Not Elsewhere Classified",2000.0,2000.0,2090.0
+3,2111,Cigarettes,2000.0,2100.0,2110.0
+3,2121,Cigars,2000.0,2100.0,2120.0
+3,2131,Chewing and Smoking Tobacco and Snuff,2000.0,2100.0,2130.0
+3,2141,Tobacco Stemming and Redrying,2000.0,2100.0,2140.0
+3,2211,"Broadwoven Fabric Mills, Cotton",2000.0,2200.0,2210.0
+3,2221,"Broadwoven Fabric Mills, Manmade Fiber and Silk",2000.0,2200.0,2220.0
+3,2231,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",2000.0,2200.0,2230.0
+3,2241,"Narrow Fabric and other Smallwares Mills: Cotton, Wool, Silk, and Manmade Fiber",2000.0,2200.0,2240.0
+3,2251,Women's Full,2000.0,2200.0,2250.0
+3,2252,"Hosiery, Not Elsewhere Classified",2000.0,2200.0,2250.0
+3,2253,Knit Outerwear Mills,2000.0,2200.0,2250.0
+3,2254,Knit Underwear and Nightwear Mills,2000.0,2200.0,2250.0
+3,2257,Weft Knit Fabric Mills,2000.0,2200.0,2250.0
+3,2258,Lace and Warp Knit Fabric Mills,2000.0,2200.0,2250.0
+3,2259,"Knitting Mills, Not Elsewhere Classified",2000.0,2200.0,2250.0
+3,2261,Finishers of Broadwoven Fabrics of Cotton,2000.0,2200.0,2260.0
+3,2262,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk,2000.0,2200.0,2260.0
+3,2269,"Finishers of Textiles, Not Elsewhere Classified",2000.0,2200.0,2260.0
+3,2273,Carpets and Rugs,2000.0,2200.0,2270.0
+3,2281,Yarn Spinning Mills,2000.0,2200.0,2280.0
+3,2282,"Yarn Texturizing, Throwing, Twisting, and Winding Mills",2000.0,2200.0,2280.0
+3,2284,Thread Mills,2000.0,2200.0,2280.0
+3,2295,"Coated Fabrics, not Rubberized",2000.0,2200.0,2290.0
+3,2296,Tire Cord and Fabrics,2000.0,2200.0,2290.0
+3,2297,Non,2000.0,2200.0,2290.0
+3,2298,Cordage and Twine,2000.0,2200.0,2290.0
+3,2299,"Textile Goods, Not Elsewhere Classified",2000.0,2200.0,2290.0
+3,2311,"Men's and Boys' Suits, Coats, and Overcoats",2000.0,2300.0,2310.0
+3,2321,"Men's and Boys' Shirts, except Work Shirts",2000.0,2300.0,2320.0
+3,2322,Men's and Boys' Underwear and Nightwear,2000.0,2300.0,2320.0
+3,2323,Men's and Boys' Neckwear,2000.0,2300.0,2320.0
+3,2325,Men's and Boys' Separate Trousers and Slacks,2000.0,2300.0,2320.0
+3,2326,Men's and Boys' Work Clothing,2000.0,2300.0,2320.0
+3,2329,"Men's and Boys' Clothing, Not Elsewhere Classified",2000.0,2300.0,2320.0
+3,2331,"Women's, Misses', and Juniors' Blouses and Shirts",2000.0,2300.0,2330.0
+3,2335,"Women's, Misses', and Juniors' Dresses",2000.0,2300.0,2330.0
+3,2337,"Women's, Misses', and Juniors' Suits, Skirts, and Coats",2000.0,2300.0,2330.0
+3,2339,"Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified",2000.0,2300.0,2330.0
+3,2341,"Women's, Misses', Children's, and Infants' Underwear and Nightwear",2000.0,2300.0,2340.0
+3,2342,"Brassieres, Girdles, and Allied Garments",2000.0,2300.0,2340.0
+3,2353,"Hats, Caps, and Millinery",2000.0,2300.0,2350.0
+3,2361,"Girls', Children's, and Infants' Dresses, Blouses, and Shirts",2000.0,2300.0,2360.0
+3,2369,"Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified",2000.0,2300.0,2360.0
+3,2371,Fur Goods,2000.0,2300.0,2370.0
+3,2381,"Dress and Work Gloves, except Knit and All",2000.0,2300.0,2380.0
+3,2384,Robes and Dressing Gowns,2000.0,2300.0,2380.0
+3,2385,Waterproof Outerwear,2000.0,2300.0,2380.0
+3,2386,Leather and Sheep,2000.0,2300.0,2380.0
+3,2387,Apparel Belts,2000.0,2300.0,2380.0
+3,2389,"Apparel and Accessories, Not Elsewhere Classified",2000.0,2300.0,2380.0
+3,2391,Curtains and Draperies,2000.0,2300.0,2390.0
+3,2392,"House Furnishing, except Curtains and Draperies",2000.0,2300.0,2390.0
+3,2393,Textile Bags,2000.0,2300.0,2390.0
+3,2394,Canvas and Related Products,2000.0,2300.0,2390.0
+3,2395,"Pleating, Decorative and Novelty Stitching, and Tucking for the Trade",2000.0,2300.0,2390.0
+3,2396,"Automotive Trimmings, Apparel Findings, and Related Products",2000.0,2300.0,2390.0
+3,2397,Schiffli Machine Embroideries,2000.0,2300.0,2390.0
+3,2399,"Fabricated Textile Products, Not Elsewhere Classified",2000.0,2300.0,2390.0
+3,2411,Logging,2000.0,2400.0,2410.0
+3,2421,"Sawmills and Planing Mills, General",2000.0,2400.0,2420.0
+3,2426,Hardwood Dimension and Flooring Mills,2000.0,2400.0,2420.0
+3,2429,"Special Product Sawmills, Not Elsewhere Classified",2000.0,2400.0,2420.0
+3,2431,Millwork,2000.0,2400.0,2430.0
+3,2434,Wood Kitchen Cabinets,2000.0,2400.0,2430.0
+3,2435,Hardwood Veneer and Plywood,2000.0,2400.0,2430.0
+3,2436,Softwood Veneer and Plywood,2000.0,2400.0,2430.0
+3,2439,"Structural Wood Members, Not Elsewhere Classified",2000.0,2400.0,2430.0
+3,2441,Nailed and Lock Corner Wood Boxes and Shook,2000.0,2400.0,2440.0
+3,2448,Wood Pallets and Skids,2000.0,2400.0,2440.0
+3,2449,"Wood Containers, Not Elsewhere Classified",2000.0,2400.0,2440.0
+3,2451,Mobile Homes,2000.0,2400.0,2450.0
+3,2452,Prefabricated Wood Buildings and Components,2000.0,2400.0,2450.0
+3,2491,Wood Preserving,2000.0,2400.0,2490.0
+3,2493,Reconstituted Wood Products,2000.0,2400.0,2490.0
+3,2499,"Wood Products, Not Elsewhere Classified",2000.0,2400.0,2490.0
+3,2511,"Wood Household Furniture, except Upholstered",2000.0,2500.0,2510.0
+3,2512,"Wood Household Furniture, Upholstered",2000.0,2500.0,2510.0
+3,2514,Metal Household Furniture,2000.0,2500.0,2510.0
+3,2515,"Mattresses, Foundations, and Convertible Beds",2000.0,2500.0,2510.0
+3,2517,"Wood Television, Radio, Phonograph, and Sewing Machine Cabinets",2000.0,2500.0,2510.0
+3,2519,"Household Furniture, Not Elsewhere Classified",2000.0,2500.0,2510.0
+3,2521,Wood Office Furniture,2000.0,2500.0,2520.0
+3,2522,"Office Furniture, except Wood",2000.0,2500.0,2520.0
+3,2531,Public Building and Related Furniture,2000.0,2500.0,2530.0
+3,2541,"Wood Office and Store Fixtures, Partitions, Shelving, and Lockers",2000.0,2500.0,2540.0
+3,2542,"Office and Store Fixtures, Partitions, Shelving, and Lockers, except Wood",2000.0,2500.0,2540.0
+3,2591,Drapery Hardware and Window Blinds and Shades,2000.0,2500.0,2590.0
+3,2599,"Furniture and Fixtures, Not Elsewhere Classified",2000.0,2500.0,2590.0
+3,2611,Pulp Mills,2000.0,2600.0,2610.0
+3,2621,Paper Mills,2000.0,2600.0,2620.0
+3,2631,Paperboard Mills,2000.0,2600.0,2630.0
+3,2652,Setup Paperboard Boxes,2000.0,2600.0,2650.0
+3,2653,Corrugated and Solid Fiber Boxes,2000.0,2600.0,2650.0
+3,2655,"Fiber Cans, Tubes, Drums, and Similar Products",2000.0,2600.0,2650.0
+3,2656,"Sanitary Food Containers, except Folding",2000.0,2600.0,2650.0
+3,2657,"Folding Paperboard Boxes, including Sanitary",2000.0,2600.0,2650.0
+3,2671,"Packaging Paper and Plastics Film, Coated and Laminated",2000.0,2600.0,2670.0
+3,2672,"Coated and Laminated Paper, Not Elsewhere Classified",2000.0,2600.0,2670.0
+3,2673,"Plastics, Foil, and Coated Paper Bags",2000.0,2600.0,2670.0
+3,2674,Uncoated Paper and Multiwall Bags,2000.0,2600.0,2670.0
+3,2675,Die,2000.0,2600.0,2670.0
+3,2676,Sanitary Paper Products,2000.0,2600.0,2670.0
+3,2677,Envelopes,2000.0,2600.0,2670.0
+3,2678,"Stationery, Tablets, and Related Products",2000.0,2600.0,2670.0
+3,2679,"Converted Paper and Paperboard Products, Not Elsewhere Classified",2000.0,2600.0,2670.0
+3,2711,"Newspapers: Publishing, or Publishing and Printing",2000.0,2700.0,2710.0
+3,2721,"Periodicals: Publishing, or Publishing and Printing",2000.0,2700.0,2720.0
+3,2731,"Books: Publishing, or Publishing and Printing",2000.0,2700.0,2730.0
+3,2732,Book Printing,2000.0,2700.0,2730.0
+3,2741,Miscellaneous Publishing,2000.0,2700.0,2740.0
+3,2752,"Commercial Printing, Lithographic",2000.0,2700.0,2750.0
+3,2754,"Commercial Printing, Gravure",2000.0,2700.0,2750.0
+3,2759,"Commercial Printing, Not Elsewhere Classified",2000.0,2700.0,2750.0
+3,2761,Manifold Business Forms,2000.0,2700.0,2760.0
+3,2771,Greeting Card,2000.0,2700.0,2770.0
+3,2782,"Blankbooks, Looseleaf Binders, and Devices",2000.0,2700.0,2780.0
+3,2789,Bookbinding and Related Work,2000.0,2700.0,2780.0
+3,2791,Typesetting,2000.0,2700.0,2790.0
+3,2796,Platemaking and Related Services,2000.0,2700.0,2790.0
+3,2812,Alkalies and Chlorine,2000.0,2800.0,2810.0
+3,2813,Industrial Gases,2000.0,2800.0,2810.0
+3,2816,Inorganic Pigments,2000.0,2800.0,2810.0
+3,2819,"Industrial Inorganic Chemicals, Not Elsewhere Classified",2000.0,2800.0,2810.0
+3,2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers",2000.0,2800.0,2820.0
+3,2822,Synthetic Rubber (Vulcanizable Elastomers),2000.0,2800.0,2820.0
+3,2823,Cellulosic Manmade Fibers,2000.0,2800.0,2820.0
+3,2824,"Manmade Organic Fibers, except Cellulosic",2000.0,2800.0,2820.0
+3,2833,Medicinal Chemicals and Botanical Products,2000.0,2800.0,2830.0
+3,2834,Pharmaceutical Preparations,2000.0,2800.0,2830.0
+3,2835,In Vitro and In Vivo Diagnostic Substances,2000.0,2800.0,2830.0
+3,2836,"Biological Products, except Diagnostic Substances",2000.0,2800.0,2830.0
+3,2841,"Soap and Other Detergents, except Specialty Cleaners",2000.0,2800.0,2840.0
+3,2842,"Specialty Cleaning, Polishing, and Sanitation Preparations",2000.0,2800.0,2840.0
+3,2843,"Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants",2000.0,2800.0,2840.0
+3,2844,"Perfumes, Cosmetics, and other Toilet Preparations",2000.0,2800.0,2840.0
+3,2851,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",2000.0,2800.0,2850.0
+3,2861,Gum and Wood Chemicals,2000.0,2800.0,2860.0
+3,2865,"Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments",2000.0,2800.0,2860.0
+3,2869,"Industrial Organic Chemicals, Not Elsewhere Classified",2000.0,2800.0,2860.0
+3,2873,Nitrogenous Fertilizers,2000.0,2800.0,2870.0
+3,2874,Phosphatic Fertilizers,2000.0,2800.0,2870.0
+3,2875,"Fertilizers, Mixing Only",2000.0,2800.0,2870.0
+3,2879,"Pesticides and Agricultural Chemicals, Not Elsewhere Classified",2000.0,2800.0,2870.0
+3,2891,Adhesives and Sealants,2000.0,2800.0,2890.0
+3,2892,Explosives,2000.0,2800.0,2890.0
+3,2893,Printing Ink,2000.0,2800.0,2890.0
+3,2895,Carbon Black,2000.0,2800.0,2890.0
+3,2899,"Chemicals and Chemical Preparations, Not Elsewhere Classified",2000.0,2800.0,2890.0
+3,2911,Petroleum Refining,2000.0,2900.0,2910.0
+3,2951,Asphalt Paving Mixtures and Blocks,2000.0,2900.0,2950.0
+3,2952,Asphalt Felts and Coatings,2000.0,2900.0,2950.0
+3,2992,Lubricating Oils and Greases,2000.0,2900.0,2990.0
+3,2999,"Products of Petroleum and Coal, Not Elsewhere Classified",2000.0,2900.0,2990.0
+3,3011,Tires and Inner Tubes,2000.0,3000.0,3010.0
+3,3021,Rubber and Plastics Footwear,2000.0,3000.0,3020.0
+3,3052,Rubber and Plastics Hose and Belting,2000.0,3000.0,3050.0
+3,3053,"Gaskets, Packing, and Sealing Devices",2000.0,3000.0,3050.0
+3,3061,"Molded, Extruded, and Lathe",2000.0,3000.0,3060.0
+3,3069,"Fabricated Rubber Products, Not Elsewhere Classified",2000.0,3000.0,3060.0
+3,3081,Unsupported Plastics Film and Sheet,2000.0,3000.0,3080.0
+3,3082,Unsupported Plastics Profile Shapes,2000.0,3000.0,3080.0
+3,3083,"Laminated Plastics Plate, Sheet, and Profile Shapes",2000.0,3000.0,3080.0
+3,3084,Plastics Pipe,2000.0,3000.0,3080.0
+3,3085,Plastics Bottles,2000.0,3000.0,3080.0
+3,3086,Plastics Foam Products,2000.0,3000.0,3080.0
+3,3087,Custom Compounding of Purchased Plastics Resins,2000.0,3000.0,3080.0
+3,3088,Plastics Plumbing Fixtures,2000.0,3000.0,3080.0
+3,3089,"Plastics Products, Not Elsewhere Classified",2000.0,3000.0,3080.0
+3,3111,Leather Tanning and Finishing,2000.0,3100.0,3110.0
+3,3131,Boot and Shoe Cut Stock and Findings,2000.0,3100.0,3130.0
+3,3142,House Slippers,2000.0,3100.0,3140.0
+3,3143,"Men's Footwear, except Athletic",2000.0,3100.0,3140.0
+3,3144,"Women's Footwear, except Athletic",2000.0,3100.0,3140.0
+3,3149,"Footwear, except Rubber, Not Elsewhere Classified",2000.0,3100.0,3140.0
+3,3151,Leather Gloves and Mittens,2000.0,3100.0,3150.0
+3,3161,Luggage,2000.0,3100.0,3160.0
+3,3171,Women's Handbags and Purses,2000.0,3100.0,3170.0
+3,3172,"Personal Leather Goods, except Women's Handbags and Purses",2000.0,3100.0,3170.0
+3,3199,"Leather Goods, Not Elsewhere Classified",2000.0,3100.0,3190.0
+3,3211,Flat Glass,2000.0,3200.0,3210.0
+3,3221,Glass Containers,2000.0,3200.0,3220.0
+3,3229,"Pressed and Blown Glass and Glassware, Not Elsewhere Classified",2000.0,3200.0,3220.0
+3,3231,"Glass Products, Made of Purchased Glass",2000.0,3200.0,3230.0
+3,3241,"Cement, Hydraulic",2000.0,3200.0,3240.0
+3,3251,Brick and Structural Clay Tile,2000.0,3200.0,3250.0
+3,3253,Ceramic Wall and Floor Tile,2000.0,3200.0,3250.0
+3,3255,Clay Refractories,2000.0,3200.0,3250.0
+3,3259,"Structural Clay Products, Not Elsewhere Classified",2000.0,3200.0,3250.0
+3,3261,Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories,2000.0,3200.0,3260.0
+3,3262,Vitreous China Table and Kitchen Articles,2000.0,3200.0,3260.0
+3,3263,Fine Earthenware (Whiteware) Table and Kitchen Articles,2000.0,3200.0,3260.0
+3,3264,Porcelain Electrical Supplies,2000.0,3200.0,3260.0
+3,3269,"Pottery Products, Not Elsewhere Classified",2000.0,3200.0,3260.0
+3,3271,Concrete Block and Brick,2000.0,3200.0,3270.0
+3,3272,"Concrete Products, except Block and Brick",2000.0,3200.0,3270.0
+3,3273,Ready,2000.0,3200.0,3270.0
+3,3274,Lime,2000.0,3200.0,3270.0
+3,3275,Gypsum Products,2000.0,3200.0,3270.0
+3,3281,Cut Stone and Stone Products,2000.0,3200.0,3280.0
+3,3291,Abrasive Products,2000.0,3200.0,3290.0
+3,3292,Asbestos Products,2000.0,3200.0,3290.0
+3,3295,"Minerals and Earths, Ground or Otherwise Treated",2000.0,3200.0,3290.0
+3,3296,Mineral Wool,2000.0,3200.0,3290.0
+3,3297,Nonclay Refractories,2000.0,3200.0,3290.0
+3,3299,"Nonmetallic Mineral Products, Not Elsewhere Classified",2000.0,3200.0,3290.0
+3,3312,"Steel Works, Blast Furnaces (including Coke Ovens), and Rolling Mills",2000.0,3300.0,3310.0
+3,3313,"Electrometallurgical Products, except Steel",2000.0,3300.0,3310.0
+3,3315,Steel Wiredrawing and Steel Nails and Spikes,2000.0,3300.0,3310.0
+3,3316,Cold,2000.0,3300.0,3310.0
+3,3317,Steel Pipe and Tubes,2000.0,3300.0,3310.0
+3,3321,Gray and Ductile Iron Foundries,2000.0,3300.0,3320.0
+3,3322,Malleable Iron Foundries,2000.0,3300.0,3320.0
+3,3324,Steel Investment Foundries,2000.0,3300.0,3320.0
+3,3325,"Steel Foundries, Not Elsewhere Classified",2000.0,3300.0,3320.0
+3,3331,Primary Smelting and Refining of Copper,2000.0,3300.0,3330.0
+3,3334,Primary Production of Aluminum,2000.0,3300.0,3330.0
+3,3339,"Primary Smelting and Refining of Nonferrous Metals, except Copper and Aluminum",2000.0,3300.0,3330.0
+3,3341,Secondary Smelting and Refining of Nonferrous Metals,2000.0,3300.0,3340.0
+3,3351,"Rolling, Drawing, and Extruding of Copper",2000.0,3300.0,3350.0
+3,3353,"Aluminum Sheet, Plate and Foil",2000.0,3300.0,3350.0
+3,3354,Aluminum Extruded Products,2000.0,3300.0,3350.0
+3,3355,"Aluminum Rolling and Drawing, Not Elsewhere Classified",2000.0,3300.0,3350.0
+3,3356,"Rolling, Drawing, and Extruding of Nonferrous Metals, except Copper and Aluminum",2000.0,3300.0,3350.0
+3,3357,Drawing and Insulating of Nonferrous Wire,2000.0,3300.0,3350.0
+3,3363,Aluminum Die,2000.0,3300.0,3360.0
+3,3364,Nonferrous Die,2000.0,3300.0,3360.0
+3,3365,Aluminum Foundries,2000.0,3300.0,3360.0
+3,3366,Copper Foundries,2000.0,3300.0,3360.0
+3,3369,"Nonferrous Foundries, except Aluminum and Copper",2000.0,3300.0,3360.0
+3,3398,Metal Heat Treating,2000.0,3300.0,3390.0
+3,3399,"Primary Metal Products, Not Elsewhere Classified",2000.0,3300.0,3390.0
+3,3411,Metal Cans,2000.0,3400.0,3410.0
+3,3412,"Metal Shipping Barrels, Drums, Kegs, and Pails",2000.0,3400.0,3410.0
+3,3421,Cutlery,2000.0,3400.0,3420.0
+3,3423,"Hand and Edge Tools, except Machine Tools and Handsaws",2000.0,3400.0,3420.0
+3,3425,Saw Blades and Handsaws,2000.0,3400.0,3420.0
+3,3429,"Hardware, Not Elsewhere Classified",2000.0,3400.0,3420.0
+3,3431,Enameled Iron and Metal Sanitary Ware,2000.0,3400.0,3430.0
+3,3432,Plumbing Fixture Fittings and Trim,2000.0,3400.0,3430.0
+3,3433,"Heating Equipment, except Electric and Warm Air Furnaces",2000.0,3400.0,3430.0
+3,3441,Fabricated Structural Metal,2000.0,3400.0,3440.0
+3,3442,"Metal Doors, Sash, Frames, Molding, and Trim Manufacturing",2000.0,3400.0,3440.0
+3,3443,Fabricated Plate Work (Boiler Shops),2000.0,3400.0,3440.0
+3,3444,Sheet Metal Work,2000.0,3400.0,3440.0
+3,3446,Architectural and Ornamental Metal Work,2000.0,3400.0,3440.0
+3,3448,Prefabricated Metal Buildings and Components,2000.0,3400.0,3440.0
+3,3449,Miscellaneous Structural Metal Work,2000.0,3400.0,3440.0
+3,3451,Screw Machine Products,2000.0,3400.0,3450.0
+3,3452,"Bolts, Nuts, Screws, Rivets, and Washers",2000.0,3400.0,3450.0
+3,3462,Iron and Steel Forgings,2000.0,3400.0,3460.0
+3,3463,Nonferrous Forgings,2000.0,3400.0,3460.0
+3,3465,Automotive Stampings,2000.0,3400.0,3460.0
+3,3466,Crowns and Closures,2000.0,3400.0,3460.0
+3,3469,"Metal Stampings, Not Elsewhere Classified",2000.0,3400.0,3460.0
+3,3471,"Electroplating, Plating, Polishing, Anodizing, and Coloring",2000.0,3400.0,3470.0
+3,3479,"Coating, Engraving, and Allied Services, Not Elsewhere Classified",2000.0,3400.0,3470.0
+3,3482,Small Arms Ammunition,2000.0,3400.0,3480.0
+3,3483,"Ammunition, Except for Small Arms",2000.0,3400.0,3480.0
+3,3484,Small Arms,2000.0,3400.0,3480.0
+3,3489,"Ordnance and Accessories, Not Elsewhere Classified",2000.0,3400.0,3480.0
+3,3491,Industrial Valves,2000.0,3400.0,3490.0
+3,3492,Fluid Power Valves and Hose Fittings,2000.0,3400.0,3490.0
+3,3493,"Steel Springs, Except Wire",2000.0,3400.0,3490.0
+3,3494,"Valves and Pipe Fittings, Not Elsewhere Classified",2000.0,3400.0,3490.0
+3,3495,Wire Springs,2000.0,3400.0,3490.0
+3,3496,Miscellaneous Fabricated Wire Products,2000.0,3400.0,3490.0
+3,3497,Metal Foil and Leaf,2000.0,3400.0,3490.0
+3,3498,Fabricated Pipe and Pipe Fittings,2000.0,3400.0,3490.0
+3,3499,"Fabricated Metal Products, Not Elsewhere Classified",2000.0,3400.0,3490.0
+3,3511,"Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units",2000.0,3500.0,3510.0
+3,3519,"Internal Combustion Engines, Not Elsewhere Classified",2000.0,3500.0,3510.0
+3,3523,Farm Machinery and Equipment,2000.0,3500.0,3520.0
+3,3524,Lawn and Garden Tractors and Home Lawn and Garden Equipment,2000.0,3500.0,3520.0
+3,3531,Construction Machinery and Equipment,2000.0,3500.0,3530.0
+3,3532,"Mining Machinery and Equipment, except Oil and Gas Field Machinery and Equipment",2000.0,3500.0,3530.0
+3,3533,Oil and Gas Field Machinery and Equipment,2000.0,3500.0,3530.0
+3,3534,Elevators and Moving Stairways,2000.0,3500.0,3530.0
+3,3535,Conveyors and Conveying Equipment,2000.0,3500.0,3530.0
+3,3536,"Overhead Traveling Cranes, Hoists, and Monorail Systems",2000.0,3500.0,3530.0
+3,3537,"Industrial Trucks, Tractors, Trailers, and Stackers",2000.0,3500.0,3530.0
+3,3541,"Machine Tools, Metal Cutting Types",2000.0,3500.0,3540.0
+3,3542,"Machine Tools, Metal Forming Types",2000.0,3500.0,3540.0
+3,3543,Industrial Patterns,2000.0,3500.0,3540.0
+3,3544,"Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds",2000.0,3500.0,3540.0
+3,3545,"Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices",2000.0,3500.0,3540.0
+3,3546,Power,2000.0,3500.0,3540.0
+3,3547,Rolling Mill Machinery and Equipment,2000.0,3500.0,3540.0
+3,3548,Electric and Gas Welding and Soldering Equipment,2000.0,3500.0,3540.0
+3,3549,"Metalworking Machinery, Not Elsewhere Classified",2000.0,3500.0,3540.0
+3,3552,Textile Machinery,2000.0,3500.0,3550.0
+3,3553,Woodworking Machinery,2000.0,3500.0,3550.0
+3,3554,Paper Industries Machinery,2000.0,3500.0,3550.0
+3,3555,Printing Trades Machinery and Equipment,2000.0,3500.0,3550.0
+3,3556,Food Products Machinery,2000.0,3500.0,3550.0
+3,3559,"Special Industry Machinery, Not Elsewhere Classified",2000.0,3500.0,3550.0
+3,3561,Pumps and Pumping Equipment,2000.0,3500.0,3560.0
+3,3562,Ball and Roller Bearings,2000.0,3500.0,3560.0
+3,3563,Air and Gas Compressors,2000.0,3500.0,3560.0
+3,3564,Industrial and Commercial Fans and Blowers and Air Purification Equipment,2000.0,3500.0,3560.0
+3,3565,Packaging Machinery,2000.0,3500.0,3560.0
+3,3566,"Speed Changers, Industrial High",2000.0,3500.0,3560.0
+3,3567,Industrial Process Furnaces and Ovens,2000.0,3500.0,3560.0
+3,3568,"Mechanical Power Transmission Equipment, Not Elsewhere Classified",2000.0,3500.0,3560.0
+3,3569,"General Industrial Machinery and Equipment, Not Elsewhere Classified",2000.0,3500.0,3560.0
+3,3571,Electronic Computers,2000.0,3500.0,3570.0
+3,3572,Computer Storage Devices,2000.0,3500.0,3570.0
+3,3575,Computer Terminals,2000.0,3500.0,3570.0
+3,3577,"Computer Peripheral Equipment, Not Elsewhere Classified",2000.0,3500.0,3570.0
+3,3578,"Calculating and Accounting Machines, except Electronic Computers",2000.0,3500.0,3570.0
+3,3579,"Office Machines, Not Elsewhere Classified",2000.0,3500.0,3570.0
+3,3581,Automatic Vending Machines,2000.0,3500.0,3580.0
+3,3582,"Commercial Laundry, Drycleaning, and Pressing Machines",2000.0,3500.0,3580.0
+3,3585,Air,2000.0,3500.0,3580.0
+3,3586,Measuring and Dispensing Pumps,2000.0,3500.0,3580.0
+3,3589,"Service Industry Machinery, Not Elsewhere Classified",2000.0,3500.0,3580.0
+3,3592,"Carburetors, Pistons, Piston Rings, and Valves",2000.0,3500.0,3590.0
+3,3593,Fluid Power Cylinders and Actuators,2000.0,3500.0,3590.0
+3,3594,Fluid Power Pumps and Motors,2000.0,3500.0,3590.0
+3,3596,"Scales and Balances, except Laboratory",2000.0,3500.0,3590.0
+3,3599,"Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified",2000.0,3500.0,3590.0
+3,3612,"Power, Distribution, and Specialty Transformers",2000.0,3600.0,3610.0
+3,3613,Switchgear and Switchboard Apparatus,2000.0,3600.0,3610.0
+3,3621,Motors and Generators,2000.0,3600.0,3620.0
+3,3624,Carbon and Graphite Products,2000.0,3600.0,3620.0
+3,3625,Relays and Industrial Controls,2000.0,3600.0,3620.0
+3,3629,"Electrical Industrial Apparatus, Not Elsewhere Classified",2000.0,3600.0,3620.0
+3,3631,Household Cooking Equipment,2000.0,3600.0,3630.0
+3,3632,Household Refrigerators and Home and Farm Freezers,2000.0,3600.0,3630.0
+3,3633,Household Laundry Equipment,2000.0,3600.0,3630.0
+3,3634,Electric Housewares and Fans,2000.0,3600.0,3630.0
+3,3635,Household Vacuum Cleaners,2000.0,3600.0,3630.0
+3,3639,"Household Appliances, Not Elsewhere Classified",2000.0,3600.0,3630.0
+3,3641,Electric Lamp Bulbs and Tubes,2000.0,3600.0,3640.0
+3,3643,Current,2000.0,3600.0,3640.0
+3,3644,Noncurrent,2000.0,3600.0,3640.0
+3,3645,Residential Electric Lighting Fixtures,2000.0,3600.0,3640.0
+3,3646,"Commercial, Industrial, and Institutional Electric Lighting Fixtures",2000.0,3600.0,3640.0
+3,3647,Vehicular Lighting Equipment,2000.0,3600.0,3640.0
+3,3648,"Lighting Equipment, Not Elsewhere Classified",2000.0,3600.0,3640.0
+3,3651,Household Audio and Video Equipment,2000.0,3600.0,3650.0
+3,3652,Phonograph Records and Prerecorded Audio Tapes and Disks,2000.0,3600.0,3650.0
+3,3661,Telephone and Telegraph Apparatus,2000.0,3600.0,3660.0
+3,3663,Radio and Television Broadcasting and Communications Equipment,2000.0,3600.0,3660.0
+3,3669,"Communications Equipment, Not Elsewhere Classified",2000.0,3600.0,3660.0
+3,3671,Electron Tubes,2000.0,3600.0,3670.0
+3,3672,Printed Circuit Boards,2000.0,3600.0,3670.0
+3,3674,Semiconductors and Related Devices,2000.0,3600.0,3670.0
+3,3675,Electronic Capacitors,2000.0,3600.0,3670.0
+3,3676,Electronic Resistors,2000.0,3600.0,3670.0
+3,3677,"Electronic Coils, Transformers, and other Inductors",2000.0,3600.0,3670.0
+3,3678,Electronic Connectors,2000.0,3600.0,3670.0
+3,3679,"Electronic Components, Not Elsewhere Classified",2000.0,3600.0,3670.0
+3,3691,Storage Batteries,2000.0,3600.0,3690.0
+3,3692,"Primary Batteries, Dry and Wet",2000.0,3600.0,3690.0
+3,3694,Electrical Equipment for Internal Combustion Engines,2000.0,3600.0,3690.0
+3,3695,Magnetic and Optical Recording Media,2000.0,3600.0,3690.0
+3,3699,"Electrical Machinery, Equipment, and Supplies, Not Elsewhere Classified",2000.0,3600.0,3690.0
+3,3711,Motor Vehicles and Passenger Car Bodies,2000.0,3700.0,3710.0
+3,3713,Truck and Bus Bodies,2000.0,3700.0,3710.0
+3,3714,Motor Vehicle Parts and Accessories,2000.0,3700.0,3710.0
+3,3715,Truck Trailers,2000.0,3700.0,3710.0
+3,3716,Motor Homes,2000.0,3700.0,3710.0
+3,3721,Aircraft,2000.0,3700.0,3720.0
+3,3724,Aircraft Engines and Engine Parts,2000.0,3700.0,3720.0
+3,3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified",2000.0,3700.0,3720.0
+3,3731,Ship Building and Repairing,2000.0,3700.0,3730.0
+3,3732,Boat Building and Repairing,2000.0,3700.0,3730.0
+3,3743,Railroad Equipment,2000.0,3700.0,3740.0
+3,3751,"Motorcycles, Bicycles, and Parts",2000.0,3700.0,3750.0
+3,3761,Guided Missiles and Space Vehicles,2000.0,3700.0,3760.0
+3,3764,Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts,2000.0,3700.0,3760.0
+3,3769,"Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified",2000.0,3700.0,3760.0
+3,3792,Travel Trailers and Campers,2000.0,3700.0,3790.0
+3,3795,Tanks and Tank Components,2000.0,3700.0,3790.0
+3,3799,"Transportation Equipment, Not Elsewhere Classified",2000.0,3700.0,3790.0
+3,3812,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments",2000.0,3800.0,3810.0
+3,3821,Laboratory Apparatus and Furniture,2000.0,3800.0,3820.0
+3,3822,Automatic Controls for Regulating Residential and Commercial Environments and Appliances,2000.0,3800.0,3820.0
+3,3823,"Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products",2000.0,3800.0,3820.0
+3,3824,Totalizing Fluid Meters and Counting Devices,2000.0,3800.0,3820.0
+3,3825,Instruments for Measuring and Testing of Electricity and Electrical Signals,2000.0,3800.0,3820.0
+3,3826,Laboratory Analytical Instruments,2000.0,3800.0,3820.0
+3,3827,Optical Instruments and Lenses,2000.0,3800.0,3820.0
+3,3829,"Measuring and Controlling Devices, Not Elsewhere Classified",2000.0,3800.0,3820.0
+3,3841,Surgical and Medical Instruments and Apparatus,2000.0,3800.0,3840.0
+3,3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies",2000.0,3800.0,3840.0
+3,3843,Dental Equipment and Supplies,2000.0,3800.0,3840.0
+3,3844,X,2000.0,3800.0,3840.0
+3,3845,Electromedical and Electrotherapeutic Apparatus,2000.0,3800.0,3840.0
+3,3851,Ophthalmic Goods,2000.0,3800.0,3850.0
+3,3861,Photographic Equipment and Supplies,2000.0,3800.0,3860.0
+3,3873,"Watches, Clocks, Clockwork Operated Devices, and Parts",2000.0,3800.0,3870.0
+3,3911,"Jewelry, Precious Metal",2000.0,3900.0,3910.0
+3,3914,"Silverware, Plated Ware, and Stainless Steel Ware",2000.0,3900.0,3910.0
+3,3915,"Jewelers' Findings and Materials, and Lapidary Work",2000.0,3900.0,3910.0
+3,3931,Musical Instruments,2000.0,3900.0,3930.0
+3,3942,Dolls and Stuffed Toys,2000.0,3900.0,3940.0
+3,3944,"Games, Toys, and Children's Vehicles, except Dolls and Bicycles",2000.0,3900.0,3940.0
+3,3949,"Sporting and Athletic Goods, Not Elsewhere Classified",2000.0,3900.0,3940.0
+3,3951,"Pens, Mechanical Pencils, and Parts",2000.0,3900.0,3950.0
+3,3952,"Lead Pencils, Crayons, and Artists' Materials",2000.0,3900.0,3950.0
+3,3953,Marking Devices,2000.0,3900.0,3950.0
+3,3955,Carbon Paper and Inked Ribbons,2000.0,3900.0,3950.0
+3,3961,"Costume Jewelry and Costume Novelties, except Precious Metal",2000.0,3900.0,3960.0
+3,3965,"Fasteners, Buttons, Needles, and Pins",2000.0,3900.0,3960.0
+3,3991,Brooms and Brushes,2000.0,3900.0,3990.0
+3,3993,Signs and Advertising Specialties,2000.0,3900.0,3990.0
+3,3995,Burial Caskets,2000.0,3900.0,3990.0
+3,3996,"Linoleum, Asphalted",2000.0,3900.0,3990.0
+3,3999,"Manufacturing Industries, Not Elsewhere Classified",2000.0,3900.0,3990.0
+3,4011,"Railroads, Line",4000.0,4000.0,4010.0
+3,4013,Railroad Switching and Terminal Establishments,4000.0,4000.0,4010.0
+3,4111,Local and Suburban Transit,4000.0,4100.0,4110.0
+3,4119,"Local Passenger Transportation, Not Elsewhere Classified",4000.0,4100.0,4110.0
+3,4121,Taxicabs,4000.0,4100.0,4120.0
+3,4131,Intercity and Rural Bus Transportation,4000.0,4100.0,4130.0
+3,4141,Local Bus Charter Service,4000.0,4100.0,4140.0
+3,4142,"Bus Charter Service, except Local",4000.0,4100.0,4140.0
+3,4151,School Buses,4000.0,4100.0,4150.0
+3,4173,Terminal and Service Facilities for Motor Vehicle Passenger Transportation,4000.0,4100.0,4170.0
+3,4212,Local Trucking without Storage,4000.0,4200.0,4210.0
+3,4213,"Trucking, except Local",4000.0,4200.0,4210.0
+3,4214,Local Trucking with Storage,4000.0,4200.0,4210.0
+3,4215,"Courier Services, except by Air",4000.0,4200.0,4210.0
+3,4221,Farm Product Warehousing and Storage,4000.0,4200.0,4220.0
+3,4222,Refrigerated Warehousing and Storage,4000.0,4200.0,4220.0
+3,4225,General Warehousing and Storage,4000.0,4200.0,4220.0
+3,4226,"Special Warehousing and Storage, Not Elsewhere Classified",4000.0,4200.0,4220.0
+3,4231,Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation,4000.0,4200.0,4230.0
+3,4311,United States Postal Service,4000.0,4300.0,4310.0
+3,4412,Deep Sea Foreign Transportation of Freight,4000.0,4400.0,4410.0
+3,4424,Deep Sea Domestic Transportation of Freight,4000.0,4400.0,4420.0
+3,4432,Freight Transportation on the Great Lakes,4000.0,4400.0,4430.0
+3,4449,"Water Transportation of Freight, Not Elsewhere Classified",4000.0,4400.0,4440.0
+3,4481,"Deep Sea Transportation of Passengers, except by Ferry",4000.0,4400.0,4480.0
+3,4482,Ferries,4000.0,4400.0,4480.0
+3,4489,"Water Transportation of Passengers, Not Elsewhere Classified",4000.0,4400.0,4480.0
+3,4491,Marine Cargo Handling,4000.0,4400.0,4490.0
+3,4492,Towing and Tugboat Services,4000.0,4400.0,4490.0
+3,4493,Marinas,4000.0,4400.0,4490.0
+3,4499,"Water Transportation Services, Not Elsewhere Classified",4000.0,4400.0,4490.0
+3,4512,"Air Transportation, Scheduled",4000.0,4500.0,4510.0
+3,4513,Air Courier Services,4000.0,4500.0,4510.0
+3,4522,"Air Transportation, Nonscheduled",4000.0,4500.0,4520.0
+3,4581,"Airports, Flying Fields, and Airport Terminal Services",4000.0,4500.0,4580.0
+3,4612,Crude Petroleum Pipelines,4000.0,4600.0,4610.0
+3,4613,Refined Petroleum Pipelines,4000.0,4600.0,4610.0
+3,4619,"Pipelines, Not Elsewhere Classified",4000.0,4600.0,4610.0
+3,4724,Travel Agencies,4000.0,4700.0,4720.0
+3,4725,Tour Operators,4000.0,4700.0,4720.0
+3,4729,"Arrangement of Passenger Transportation, Not Elsewhere Classified",4000.0,4700.0,4720.0
+3,4731,Arrangement of Transportation of Freight and Cargo,4000.0,4700.0,4730.0
+3,4741,Rental of Railroad Cars,4000.0,4700.0,4740.0
+3,4783,Packing and Crating,4000.0,4700.0,4780.0
+3,4785,Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation,4000.0,4700.0,4780.0
+3,4789,"Transportation Services, Not Elsewhere Classified",4000.0,4700.0,4780.0
+3,4812,Radiotelephone Communications,4000.0,4800.0,4810.0
+3,4813,"Telephone Communications, except Radiotelephone",4000.0,4800.0,4810.0
+3,4822,Telegraph and other Message Communications,4000.0,4800.0,4820.0
+3,4832,Radio Broadcasting Stations,4000.0,4800.0,4830.0
+3,4833,Television Broadcasting Stations,4000.0,4800.0,4830.0
+3,4841,Cable and other Pay Television Services,4000.0,4800.0,4840.0
+3,4899,"Communication Services, Not Elsewhere Classified",4000.0,4800.0,4890.0
+3,4911,Electric Services,4000.0,4900.0,4910.0
+3,4922,Natural Gas Transmission,4000.0,4900.0,4920.0
+3,4923,Natural Gas Transmission and Distribution,4000.0,4900.0,4920.0
+3,4924,Natural Gas Distribution,4000.0,4900.0,4920.0
+3,4925,"Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or Distribution",4000.0,4900.0,4920.0
+3,4931,Electric and other Services Combined,4000.0,4900.0,4930.0
+3,4932,Gas and other Services Combined,4000.0,4900.0,4930.0
+3,4939,"Combination Utilities, Not Elsewhere Classified",4000.0,4900.0,4930.0
+3,4941,Water Supply,4000.0,4900.0,4940.0
+3,4952,Sewerage Systems,4000.0,4900.0,4950.0
+3,4953,Refuse Systems,4000.0,4900.0,4950.0
+3,4959,"Sanitary Services, Not Elsewhere Classified",4000.0,4900.0,4950.0
+3,4961,Steam and Air,4000.0,4900.0,4960.0
+3,4971,Irrigation Systems,4000.0,4900.0,4970.0
+3,5012,Automobiles and other Motor Vehicles,5000.0,5000.0,5010.0
+3,5013,Motor Vehicle Supplies and New Parts,5000.0,5000.0,5010.0
+3,5014,Tires and Tubes,5000.0,5000.0,5010.0
+3,5015,"Motor Vehicle Parts, Used",5000.0,5000.0,5010.0
+3,5021,Furniture,5000.0,5000.0,5020.0
+3,5023,Home Furnishings,5000.0,5000.0,5020.0
+3,5031,"Lumber, Plywood, Millwork, and Wood Panels",5000.0,5000.0,5030.0
+3,5032,"Brick, Stone, and Related Construction Materials",5000.0,5000.0,5030.0
+3,5033,"Roofing, Siding, and Insulation Materials",5000.0,5000.0,5030.0
+3,5039,"Construction Materials, Not Elsewhere Classified",5000.0,5000.0,5030.0
+3,5043,Photographic Equipment and Supplies,5000.0,5000.0,5040.0
+3,5044,Office Equipment,5000.0,5000.0,5040.0
+3,5045,Computers and Computer Peripheral Equipment and Software,5000.0,5000.0,5040.0
+3,5046,"Commercial Equipment, Not Elsewhere Classified",5000.0,5000.0,5040.0
+3,5047,"Medical, Dental, and Hospital Equipment and Supplies",5000.0,5000.0,5040.0
+3,5048,Ophthalmic Goods,5000.0,5000.0,5040.0
+3,5049,"Professional Equipment and Supplies, Not Elsewhere Classified",5000.0,5000.0,5040.0
+3,5051,Metals Service Centers and Offices,5000.0,5000.0,5050.0
+3,5052,Coal and other Minerals and Ores,5000.0,5000.0,5050.0
+3,5063,"Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials",5000.0,5000.0,5060.0
+3,5064,"Electrical Appliances, Television and Radio Sets",5000.0,5000.0,5060.0
+3,5065,"Electronic Parts and Equipment, Not Elsewhere Classified",5000.0,5000.0,5060.0
+3,5072,Hardware,5000.0,5000.0,5070.0
+3,5074,Plumbing and Heating Equipment and Supplies (Hydronics),5000.0,5000.0,5070.0
+3,5075,Warm Air Heating and Air,5000.0,5000.0,5070.0
+3,5078,Refrigeration Equipment and Supplies,5000.0,5000.0,5070.0
+3,5082,Construction and Mining (except Petroleum) Machinery and Equipment,5000.0,5000.0,5080.0
+3,5083,Farm and Garden Machinery and Equipment,5000.0,5000.0,5080.0
+3,5084,Industrial Machinery and Equipment,5000.0,5000.0,5080.0
+3,5085,Industrial Supplies,5000.0,5000.0,5080.0
+3,5087,Service Establishment Equipment and Supplies,5000.0,5000.0,5080.0
+3,5088,"Transportation Equipment and Supplies, except Motor Vehicles",5000.0,5000.0,5080.0
+3,5091,Sporting and Recreational Goods and Supplies,5000.0,5000.0,5090.0
+3,5092,Toys and Hobby Goods and Supplies,5000.0,5000.0,5090.0
+3,5093,Scrap and Waste Materials,5000.0,5000.0,5090.0
+3,5094,"Jewelry, Watches, Precious Stones, and Precious Metals",5000.0,5000.0,5090.0
+3,5099,"Durable Goods, Not Elsewhere Classified",5000.0,5000.0,5090.0
+3,5111,Printing and Writing Paper,5000.0,5100.0,5110.0
+3,5112,Stationery and Office Supplies,5000.0,5100.0,5110.0
+3,5113,Industrial and Personal Service Paper,5000.0,5100.0,5110.0
+3,5122,"Drugs, Drug Proprietaries, and Druggists' Sundries",5000.0,5100.0,5120.0
+3,5131,"Piece Goods, Notions, and other Dry Good",5000.0,5100.0,5130.0
+3,5136,Men's and Boy's Clothing and Furnishings,5000.0,5100.0,5130.0
+3,5137,"Women's, Children's, and Infants' Clothing and Accessories",5000.0,5100.0,5130.0
+3,5139,Footwear,5000.0,5100.0,5130.0
+3,5141,"Groceries, General Line",5000.0,5100.0,5140.0
+3,5142,Packaged Frozen Foods,5000.0,5100.0,5140.0
+3,5143,"Dairy Products, except Dried or Canned",5000.0,5100.0,5140.0
+3,5144,Poultry and Poultry Products,5000.0,5100.0,5140.0
+3,5145,Confectionery,5000.0,5100.0,5140.0
+3,5146,Fish and Seafoods,5000.0,5100.0,5140.0
+3,5147,Meats and Meat Products,5000.0,5100.0,5140.0
+3,5148,Fresh Fruits and Vegetables,5000.0,5100.0,5140.0
+3,5149,"Groceries and Related Products, Not Elsewhere Classified",5000.0,5100.0,5140.0
+3,5153,Grain and Field Beans,5000.0,5100.0,5150.0
+3,5154,Livestock,5000.0,5100.0,5150.0
+3,5159,Farm,5000.0,5100.0,5150.0
+3,5162,Plastics Materials and Basic Forms and Shapes,5000.0,5100.0,5160.0
+3,5169,"Chemicals and Allied Products, Not Elsewhere Classified",5000.0,5100.0,5160.0
+3,5171,Petroleum Bulk Stations and Terminals,5000.0,5100.0,5170.0
+3,5172,"Petroleum and Petroleum Products Wholesalers, except Bulk Stations and Terminals",5000.0,5100.0,5170.0
+3,5181,Beer and Ale,5000.0,5100.0,5180.0
+3,5182,Wine and Distilled Alcoholic Beverages,5000.0,5100.0,5180.0
+3,5191,Farm Supplies,5000.0,5100.0,5190.0
+3,5192,"Books, Periodicals, and Newspapers",5000.0,5100.0,5190.0
+3,5193,"Flowers, Nursery Stock, and Florists' Supplies",5000.0,5100.0,5190.0
+3,5194,Tobacco and Tobacco Products,5000.0,5100.0,5190.0
+3,5198,"Paints, Varnishes, and Supplies",5000.0,5100.0,5190.0
+3,5199,"Nondurable Goods, Not Elsewhere Classified",5000.0,5100.0,5190.0
+3,5211,Lumber and other Building Materials Dealers,5200.0,5200.0,5210.0
+3,5231,"Paint, Glass, and Wallpaper Stores",5200.0,5200.0,5230.0
+3,5251,Hardware Stores,5200.0,5200.0,5250.0
+3,5261,"Retail Nurseries, Lawn and Garden Supply Stores",5200.0,5200.0,5260.0
+3,5271,Mobile Home Dealers,5200.0,5200.0,5270.0
+3,5311,Department Stores,5200.0,5300.0,5310.0
+3,5331,Variety Stores,5200.0,5300.0,5330.0
+3,5399,Miscellaneous General Merchandise Stores,5200.0,5300.0,5390.0
+3,5411,Grocery Stores,5200.0,5400.0,5410.0
+3,5421,"Meat and Fish (Seafood) Markets, including Freezer Provisioners",5200.0,5400.0,5420.0
+3,5431,Fruit and Vegetable Markets,5200.0,5400.0,5430.0
+3,5441,"Candy, Nut, and Confectionery Stores",5200.0,5400.0,5440.0
+3,5451,Dairy Products Stores,5200.0,5400.0,5450.0
+3,5461,Retail Bakeries,5200.0,5400.0,5460.0
+3,5499,Miscellaneous Food Stores,5200.0,5400.0,5490.0
+3,5511,Motor Vehicle Dealers (New and Used),5200.0,5500.0,5510.0
+3,5521,Motor Vehicle Dealers (Used Only),5200.0,5500.0,5520.0
+3,5531,Auto and Home Supply Stores,5200.0,5500.0,5530.0
+3,5541,Gasoline Service Stations,5200.0,5500.0,5540.0
+3,5551,Boat Dealers,5200.0,5500.0,5550.0
+3,5561,Recreation Vehicle Dealers,5200.0,5500.0,5560.0
+3,5571,Motorcycle Dealers,5200.0,5500.0,5570.0
+3,5599,"Automotive Dealers, Not Elsewhere Classified",5200.0,5500.0,5590.0
+3,5611,Men's and Boys' Clothing and Accessory Stores,5200.0,5600.0,5610.0
+3,5621,Women's Clothing Stores,5200.0,5600.0,5620.0
+3,5632,Women's Accessory and Specialty Stores,5200.0,5600.0,5630.0
+3,5641,Children's and Infants' Wear Stores,5200.0,5600.0,5640.0
+3,5651,Family Clothing Stores,5200.0,5600.0,5650.0
+3,5661,Shoe Stores,5200.0,5600.0,5660.0
+3,5699,Miscellaneous Apparel and Accessory Stores,5200.0,5600.0,5690.0
+3,5712,Furniture Stores,5200.0,5700.0,5710.0
+3,5713,Floor Covering Stores,5200.0,5700.0,5710.0
+3,5714,"Drapery, Curtain, and Upholstery Stores",5200.0,5700.0,5710.0
+3,5719,Miscellaneous Home Furnishings Stores,5200.0,5700.0,5710.0
+3,5722,Household Appliance Stores,5200.0,5700.0,5720.0
+3,5731,"Radio, Television, and Consumer Electronics Stores",5200.0,5700.0,5730.0
+3,5734,Computer and Computer Software Stores,5200.0,5700.0,5730.0
+3,5735,Record and Prerecorded Tape Stores,5200.0,5700.0,5730.0
+3,5736,Musical Instrument Stores,5200.0,5700.0,5730.0
+3,5812,Eating Places,5200.0,5800.0,5810.0
+3,5813,Drinking Places (Alcoholic Beverages),5200.0,5800.0,5810.0
+3,5912,Drug Stores and Proprietary Stores,5200.0,5900.0,5910.0
+3,5921,Liquor Stores,5200.0,5900.0,5920.0
+3,5932,Used Merchandise Stores,5200.0,5900.0,5930.0
+3,5941,Sporting Goods Stores and Bicycle Shops,5200.0,5900.0,5940.0
+3,5942,Book Stores,5200.0,5900.0,5940.0
+3,5943,Stationery Stores,5200.0,5900.0,5940.0
+3,5944,Jewelry Stores,5200.0,5900.0,5940.0
+3,5945,"Hobby, Toy, and Game Shops",5200.0,5900.0,5940.0
+3,5946,Camera and Photographic Supply Stores,5200.0,5900.0,5940.0
+3,5947,"Gift, Novelty, and Souvenir Shops",5200.0,5900.0,5940.0
+3,5948,Luggage and Leather Goods Stores,5200.0,5900.0,5940.0
+3,5949,"Sewing, Needlework, and Piece Goods Stores",5200.0,5900.0,5940.0
+3,5961,Catalog and Mail,5200.0,5900.0,5960.0
+3,5962,Automatic Merchandising Machine Operators,5200.0,5900.0,5960.0
+3,5963,Direct Selling Establishments,5200.0,5900.0,5960.0
+3,5983,Fuel Oil Dealers,5200.0,5900.0,5980.0
+3,5984,Liquefied Petroleum Gas (Bottled Gas) Dealers,5200.0,5900.0,5980.0
+3,5989,"Fuel Dealers, Not Elsewhere Classified",5200.0,5900.0,5980.0
+3,5992,Florists,5200.0,5900.0,5990.0
+3,5993,Tobacco Stores and Stands,5200.0,5900.0,5990.0
+3,5994,News Dealers and Newsstands,5200.0,5900.0,5990.0
+3,5995,Optical Goods Stores,5200.0,5900.0,5990.0
+3,5999,"Miscellaneous Retail Stores, Not Elsewhere Classified",5200.0,5900.0,5990.0
+3,6011,Federal Reserve Banks,6000.0,6000.0,6010.0
+3,6019,"Central Reserve Depository Institutions, Not Elsewhere Classified",6000.0,6000.0,6010.0
+3,6021,National Commercial Banks,6000.0,6000.0,6020.0
+3,6022,State Commercial Banks,6000.0,6000.0,6020.0
+3,6029,"Commercial Banks, Not Elsewhere Classified",6000.0,6000.0,6020.0
+3,6035,"Savings Institutions, Federally Chartered",6000.0,6000.0,6030.0
+3,6036,"Savings Institutions, Not Federally Chartered",6000.0,6000.0,6030.0
+3,6061,"Credit Unions, Federally Chartered",6000.0,6000.0,6060.0
+3,6062,"Credit Unions, Not Federally Chartered",6000.0,6000.0,6060.0
+3,6081,Branches and Agencies of Foreign Banks,6000.0,6000.0,6080.0
+3,6082,Foreign Trade and International Banking Institutions,6000.0,6000.0,6080.0
+3,6091,Non,6000.0,6000.0,6090.0
+3,6099,"Functions Related to Depository Banking, Not Elsewhere Classified",6000.0,6000.0,6090.0
+3,6111,Federal and Federally,6000.0,6100.0,6110.0
+3,6141,Personal Credit Institutions,6000.0,6100.0,6140.0
+3,6153,Short,6000.0,6100.0,6150.0
+3,6159,Miscellaneous Business Credit Institutions,6000.0,6100.0,6150.0
+3,6162,Mortgage Bankers and Loan Correspondents,6000.0,6100.0,6160.0
+3,6163,Loan Brokers,6000.0,6100.0,6160.0
+3,6211,"Security Brokers, Dealers, and Flotation Companies",6000.0,6200.0,6210.0
+3,6221,Commodity Contracts Brokers and Dealers,6000.0,6200.0,6220.0
+3,6231,Security and Commodity Exchanges,6000.0,6200.0,6230.0
+3,6282,Investment Advice,6000.0,6200.0,6280.0
+3,6289,"Services Allied with the Exchange of Securities or Commodities, Not Elsewhere Classified",6000.0,6200.0,6280.0
+3,6311,Life Insurance,6000.0,6300.0,6310.0
+3,6321,Accident and Health Insurance,6000.0,6300.0,6320.0
+3,6324,Hospital and Medical Service Plans,6000.0,6300.0,6320.0
+3,6331,"Fire, Marine, and Casualty Insurance",6000.0,6300.0,6330.0
+3,6351,Surety Insurance,6000.0,6300.0,6350.0
+3,6361,Title Insurance,6000.0,6300.0,6360.0
+3,6371,"Pension, Health, and Welfare Funds",6000.0,6300.0,6370.0
+3,6399,"Insurance Carriers, Not Elsewhere Classified",6000.0,6300.0,6390.0
+3,6411,"Insurance Agents, Brokers and Service",6000.0,6400.0,6410.0
+3,6512,Operators of Nonresidential Buildings,6000.0,6500.0,6510.0
+3,6513,Operators of Apartment Buildings,6000.0,6500.0,6510.0
+3,6514,Operators of Dwellings other than Apartment Buildings,6000.0,6500.0,6510.0
+3,6515,Operators of Residential Mobile Home Sites,6000.0,6500.0,6510.0
+3,6517,Lessors of Railroad Property,6000.0,6500.0,6510.0
+3,6519,"Lessors of Real Property, Not Elsewhere Classified",6000.0,6500.0,6510.0
+3,6531,Real Estate Agents and Managers,6000.0,6500.0,6530.0
+3,6541,Title Abstract Offices,6000.0,6500.0,6540.0
+3,6552,"Land Subdividers and Developers, except Cemeteries",6000.0,6500.0,6550.0
+3,6553,Cemetery Subdividers and Developers,6000.0,6500.0,6550.0
+3,6712,Offices of Bank Holding Companies,6000.0,6700.0,6710.0
+3,6719,"Offices of Holding Companies, Not Elsewhere Classified",6000.0,6700.0,6710.0
+3,6722,"Management Investment Offices, Open",6000.0,6700.0,6720.0
+3,6726,"Unit Investment Trusts, Face",6000.0,6700.0,6720.0
+3,6732,"Educational, Religious, and Charitable Trusts",6000.0,6700.0,6730.0
+3,6733,"Trusts, except Educational, Religious, and Charitable",6000.0,6700.0,6730.0
+3,6792,Oil Royalty Traders,6000.0,6700.0,6790.0
+3,6794,Patent Owners and Lessors,6000.0,6700.0,6790.0
+3,6798,Real Estate Investment Trusts,6000.0,6700.0,6790.0
+3,6799,"Investors, Not Elsewhere Classified",6000.0,6700.0,6790.0
+3,7011,Hotels and Motels,7000.0,7000.0,7010.0
+3,7021,Rooming and Boarding Houses,7000.0,7000.0,7020.0
+3,7032,Sporting and Recreational Camps,7000.0,7000.0,7030.0
+3,7033,Recreational Vehicle Parks and Campsites,7000.0,7000.0,7030.0
+3,7041,"Organization Hotels and Lodging Houses, on Membership Basis",7000.0,7000.0,7040.0
+3,7211,"Power Laundries, Family and Commercial",7000.0,7200.0,7210.0
+3,7212,"Garment Pressing, and Agents for Laundries and Drycleaners",7000.0,7200.0,7210.0
+3,7213,Linen Supply,7000.0,7200.0,7210.0
+3,7215,Coin,7000.0,7200.0,7210.0
+3,7216,"Drycleaning Plants, except Rug Cleaning",7000.0,7200.0,7210.0
+3,7217,Carpet and Upholstery Cleaning,7000.0,7200.0,7210.0
+3,7218,Industrial Launderers,7000.0,7200.0,7210.0
+3,7219,"Laundry and Garment Services, Not Elsewhere Classified",7000.0,7200.0,7210.0
+3,7221,"Photographic Studios, Portrait",7000.0,7200.0,7220.0
+3,7231,Beauty Shops,7000.0,7200.0,7230.0
+3,7241,Barber Shops,7000.0,7200.0,7240.0
+3,7251,Shoe Repair Shops and Shoeshine Parlors,7000.0,7200.0,7250.0
+3,7261,Funeral Service and Crematories,7000.0,7200.0,7260.0
+3,7291,Tax Return Preparation Services,7000.0,7200.0,7290.0
+3,7299,"Miscellaneous Personal Services, Not Elsewhere Classified",7000.0,7200.0,7290.0
+3,7311,Advertising Agencies,7000.0,7300.0,7310.0
+3,7312,Outdoor Advertising Services,7000.0,7300.0,7310.0
+3,7313,"Radio, Television, and Publishers' Advertising Representatives",7000.0,7300.0,7310.0
+3,7319,"Advertising, Not Elsewhere Classified",7000.0,7300.0,7310.0
+3,7322,Adjustment and Collection Services,7000.0,7300.0,7320.0
+3,7323,Credit Reporting Services,7000.0,7300.0,7320.0
+3,7331,Direct Mail Advertising Services,7000.0,7300.0,7330.0
+3,7334,Photocopying and Duplicating Services,7000.0,7300.0,7330.0
+3,7335,Commercial Photography,7000.0,7300.0,7330.0
+3,7336,Commercial Art and Graphic Design,7000.0,7300.0,7330.0
+3,7338,Secretarial and Court Reporting Services,7000.0,7300.0,7330.0
+3,7342,Disinfecting and Pest Control Services,7000.0,7300.0,7340.0
+3,7349,"Building Cleaning and Maintenance Services, Not Elsewhere Classified",7000.0,7300.0,7340.0
+3,7352,Medical Equipment Rental and Leasing,7000.0,7300.0,7350.0
+3,7353,Heavy Construction Equipment Rental and Leasing,7000.0,7300.0,7350.0
+3,7359,"Equipment Rental and Leasing, Not Elsewhere Classified",7000.0,7300.0,7350.0
+3,7361,Employment Agencies,7000.0,7300.0,7360.0
+3,7363,Help Supply Services,7000.0,7300.0,7360.0
+3,7373,Computer Integrated Systems Design,7000.0,7300.0,7370.0
+3,7374,Computer Processing and Data Preparation and Processing Services,7000.0,7300.0,7370.0
+3,7375,Information Retrieval Services,7000.0,7300.0,7370.0
+3,7376,Computer Facilities Management Services,7000.0,7300.0,7370.0
+3,7377,Computer Rental and Leasing,7000.0,7300.0,7370.0
+3,7378,Computer Maintenance and Repair,7000.0,7300.0,7370.0
+3,7379,"Computer Related Services, Not Elsewhere Classified",7000.0,7300.0,7370.0
+3,7371,Computer Programming Services,7000.0,7300.0,7370.0
+3,7372,Prepackaged Software,7000.0,7300.0,7370.0
+3,7381,"Detective, Guard, and Armored Car Services",7000.0,7300.0,7380.0
+3,7382,Security Systems Services,7000.0,7300.0,7380.0
+3,7383,News Syndicates,7000.0,7300.0,7380.0
+3,7384,Photofinishing Laboratories,7000.0,7300.0,7380.0
+3,7389,"Business Services, Not Elsewhere Classified",7000.0,7300.0,7380.0
+3,7513,Truck Rental and Leasing without Drivers,7000.0,7500.0,7510.0
+3,7514,Passenger Car Rental,7000.0,7500.0,7510.0
+3,7515,Passenger Car Leasing,7000.0,7500.0,7510.0
+3,7519,Utility Trailer and Recreational Vehicle Rental,7000.0,7500.0,7510.0
+3,7521,Automobile Parking,7000.0,7500.0,7520.0
+3,7532,"Top, Body, and Upholstery Repair Shops and Paint Shops",7000.0,7500.0,7530.0
+3,7533,Automotive Exhaust System Repair Shops,7000.0,7500.0,7530.0
+3,7534,Tire Retreading and Repair Shops,7000.0,7500.0,7530.0
+3,7536,Automotive Glass Replacement Shops,7000.0,7500.0,7530.0
+3,7537,Automotive Transmission Repair Shops,7000.0,7500.0,7530.0
+3,7538,General Automotive Repair Shops,7000.0,7500.0,7530.0
+3,7539,"Automotive Repair Shops, Not Elsewhere Classified",7000.0,7500.0,7530.0
+3,7542,Car Washes,7000.0,7500.0,7540.0
+3,7549,"Automotive Services, except Repair and Carwashes",7000.0,7500.0,7540.0
+3,7622,Radio and Television Repair Shops,7000.0,7600.0,7620.0
+3,7623,Refrigeration and Air,7000.0,7600.0,7620.0
+3,7629,"Electrical and Electronic Repair Shops, Not Elsewhere Classified",7000.0,7600.0,7620.0
+3,7631,"Watch, Clock, and Jewelry Repair",7000.0,7600.0,7630.0
+3,7641,Reupholstery and Furniture Repair,7000.0,7600.0,7640.0
+3,7692,Welding Repair,7000.0,7600.0,7690.0
+3,7694,Armature Rewinding Shops,7000.0,7600.0,7690.0
+3,7699,"Repair Shops and Related Services, Not Elsewhere Classified",7000.0,7600.0,7690.0
+3,7812,Motion Picture and Video Tape Production,7000.0,7800.0,7810.0
+3,7819,Services Allied to Motion Picture Production,7000.0,7800.0,7810.0
+3,7822,Motion Picture and Video Tape Distribution,7000.0,7800.0,7820.0
+3,7829,Services Allied to Motion Picture Distribution,7000.0,7800.0,7820.0
+3,7832,"Motion Picture Theaters, except Drive",7000.0,7800.0,7830.0
+3,7833,Drive,7000.0,7800.0,7830.0
+3,7841,Video Tape Rental,7000.0,7800.0,7840.0
+3,7911,"Dance Studios, Schools, and Halls",7000.0,7900.0,7910.0
+3,7922,Theatrical Producers (except Motion Picture) and Miscellaneous Theatrical Services,7000.0,7900.0,7920.0
+3,7929,"Bands, Orchestras, Actors, and other Entertainers and Entertainment Groups",7000.0,7900.0,7920.0
+3,7933,Bowling Centers,7000.0,7900.0,7930.0
+3,7941,Professional Sports Clubs and Promoters,7000.0,7900.0,7940.0
+3,7948,"Racing, including Track Operation",7000.0,7900.0,7940.0
+3,7991,Physical Fitness Facilities,7000.0,7900.0,7990.0
+3,7992,Public Golf Courses,7000.0,7900.0,7990.0
+3,7993,Coin,7000.0,7900.0,7990.0
+3,7996,Amusement Parks,7000.0,7900.0,7990.0
+3,7997,Membership Sports and Recreation Clubs,7000.0,7900.0,7990.0
+3,7999,"Amusement and Recreation Services, Not Elsewhere Classified",7000.0,7900.0,7990.0
+3,8011,Offices and Clinics of Doctors of Medicine,7000.0,8000.0,8010.0
+3,8021,Offices and Clinics of Dentists,7000.0,8000.0,8020.0
+3,8031,Offices and Clinics of Doctors of Osteopathy,7000.0,8000.0,8030.0
+3,8041,Offices and Clinics of Chiropractors,7000.0,8000.0,8040.0
+3,8042,Offices and Clinics of Optometrists,7000.0,8000.0,8040.0
+3,8043,Offices and Clinics of Podiatrists,7000.0,8000.0,8040.0
+3,8049,"Offices and Clinics of Health Practitioners, Not Elsewhere Classified",7000.0,8000.0,8040.0
+3,8051,Skilled Nursing Care Facilities,7000.0,8000.0,8050.0
+3,8052,Intermediate Care Facilities,7000.0,8000.0,8050.0
+3,8059,"Nursing and Personal Care Facilities, Not Elsewhere Classified",7000.0,8000.0,8050.0
+3,8062,General Medical and Surgical Hospitals,7000.0,8000.0,8060.0
+3,8063,Psychiatric Hospitals,7000.0,8000.0,8060.0
+3,8069,"Specialty Hospitals, except Psychiatric",7000.0,8000.0,8060.0
+3,8071,Medical Laboratories,7000.0,8000.0,8070.0
+3,8072,Dental Laboratories,7000.0,8000.0,8070.0
+3,8082,Home Health Care Services,7000.0,8000.0,8080.0
+3,8092,Kidney Dialysis Centers,7000.0,8000.0,8090.0
+3,8093,"Specialty Outpatient Facilities, Not Elsewhere Classified",7000.0,8000.0,8090.0
+3,8099,"Health and Allied Services, Not Elsewhere Classified",7000.0,8000.0,8090.0
+3,8111,Legal Services,7000.0,8100.0,8110.0
+3,8211,Elementary and Secondary Schools,7000.0,8200.0,8210.0
+3,8221,"Colleges, Universities, and Professional Schools",7000.0,8200.0,8220.0
+3,8222,Junior Colleges and Technical Institutes,7000.0,8200.0,8220.0
+3,8231,Libraries,7000.0,8200.0,8230.0
+3,8243,Data Processing Schools,7000.0,8200.0,8240.0
+3,8244,Business and Secretarial Schools,7000.0,8200.0,8240.0
+3,8249,"Vocational Schools, Not Elsewhere Classified",7000.0,8200.0,8240.0
+3,8299,"Schools and Educational Services, Not Elsewhere Classified",7000.0,8200.0,8290.0
+3,8322,Individual and Family Social Services,7000.0,8300.0,8320.0
+3,8331,Job Training and Vocational Rehabilitation Services,7000.0,8300.0,8330.0
+3,8351,Child Day Care Services,7000.0,8300.0,8350.0
+3,8361,Residential Care,7000.0,8300.0,8360.0
+3,8399,"Social Services, Not Elsewhere Classified",7000.0,8300.0,8390.0
+3,8412,Museums and Art Galleries,7000.0,8400.0,8410.0
+3,8422,Arboreta and Botanical or Zoological Gardens,7000.0,8400.0,8420.0
+3,8611,Business Associations,7000.0,8600.0,8610.0
+3,8621,Professional Membership Organizations,7000.0,8600.0,8620.0
+3,8631,Labor Unions and Similar Labor Organizations,7000.0,8600.0,8630.0
+3,8641,"Civic, Social, and Fraternal Associations",7000.0,8600.0,8640.0
+3,8651,Political Organizations,7000.0,8600.0,8650.0
+3,8661,Religious Organizations,7000.0,8600.0,8660.0
+3,8699,"Membership Organizations, Not Elsewhere Classified",7000.0,8600.0,8690.0
+3,8711,Engineering Services,7000.0,8700.0,8710.0
+3,8712,Architectural Services,7000.0,8700.0,8710.0
+3,8713,Surveying Services,7000.0,8700.0,8710.0
+3,8721,"Accounting, Auditing, and Bookkeeping Services",7000.0,8700.0,8720.0
+3,8731,Commercial Physical and Biological Research,7000.0,8700.0,8730.0
+3,8732,"Commercial Economic, Sociological, and Educational Research",7000.0,8700.0,8730.0
+3,8733,Noncommercial Research Organizations,7000.0,8700.0,8730.0
+3,8734,Testing Laboratories,7000.0,8700.0,8730.0
+3,8741,Management Services,7000.0,8700.0,8740.0
+3,8742,Management Consulting Services,7000.0,8700.0,8740.0
+3,8743,Public Relations Services,7000.0,8700.0,8740.0
+3,8744,Facilities Support Management Services,7000.0,8700.0,8740.0
+3,8748,"Business Consulting Services, Not Elsewhere Classified",7000.0,8700.0,8740.0
+3,8811,Private Households,7000.0,8800.0,8810.0
+3,8999,"Services, Not Elsewhere Classified",7000.0,8900.0,8990.0
+3,9111,Executive Offices,9100.0,9100.0,9110.0
+3,9121,Legislative Bodies,9100.0,9100.0,9120.0
+3,9131,Executive and Legislative Offices Combined,9100.0,9100.0,9130.0
+3,9199,"General Government, Not Elsewhere Classified",9100.0,9100.0,9190.0
+3,9211,Courts,9100.0,9200.0,9210.0
+3,9221,Police Protection,9100.0,9200.0,9220.0
+3,9222,Legal Counsel and Prosecution,9100.0,9200.0,9220.0
+3,9223,Correctional Institutions,9100.0,9200.0,9220.0
+3,9224,Fire Protection,9100.0,9200.0,9220.0
+3,9229,"Public Order and Safety, Not Elsewhere Classified",9100.0,9200.0,9220.0
+3,9311,"Public Finance, Taxation, and Monetary Policy",9100.0,9300.0,9310.0
+3,9411,Administration of Educational Programs,9100.0,9400.0,9410.0
+3,9431,Administration of Public Health Programs,9100.0,9400.0,9430.0
+3,9441,"Administration of Social, Human Resource and Income Maintenance Programs",9100.0,9400.0,9440.0
+3,9451,"Administration of Veterans' Affairs, except Health and Insurance",9100.0,9400.0,9450.0
+3,9511,Air and Water Resource and Solid Waste Management,9100.0,9500.0,9510.0
+3,9512,"Land, Mineral, Wildlife, and Forest Conservation",9100.0,9500.0,9510.0
+3,9531,Administration of Housing Programs,9100.0,9500.0,9530.0
+3,9532,Administration of Urban Planning and Community and Rural Development,9100.0,9500.0,9530.0
+3,9611,Administration of General Economic Programs,9100.0,9600.0,9610.0
+3,9621,Regulation and Administration of Transportation,9100.0,9600.0,9620.0
+3,9631,"Regulation and Administration of Communications, Electric, Gas, and other Utilities",9100.0,9600.0,9630.0
+3,9641,Regulation of Agricultural Marketing and Commodities,9100.0,9600.0,9640.0
+3,9651,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",9100.0,9600.0,9650.0
+3,9661,Space Research and Technology,9100.0,9600.0,9660.0
+3,9711,National Security,9100.0,9700.0,9710.0
+3,9721,International Affairs,9100.0,9700.0,9720.0
+3,9999,Nonclassifiable Establishments,9100.0,9900.0,9990.0

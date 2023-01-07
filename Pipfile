@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+polygon-api-client = "*"
+python-dotenv = "*"
+numpy = "*"
+nbformat = "*"
+multiprocess = "*"
+tqdm = "*"
+pandas = "*"
+lxml = "*"
+
+[dev-packages]
+autopep8 = "*"
+ipykernel = "*"
+ipywidgets = "~=7.7.2"
+mypy = "*"
+nbformat = "*"
+types-redis = "*"
+
+[requires]
+python_version = "3.9"
